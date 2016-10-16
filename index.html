@@ -3,9 +3,9 @@
    <head>
       <title>Natalie Parde</title>
       <style>
-         body {background-color: black; color: white; font-family: Arial, Helvetica, sans-serif; background-image: url("paper.jpg"); background-size: cover}
-         h1 {color: aquamarine}
-         a {color: aquamarine}
+         body {background-color: black; color: #556C8C; font-family: Arial, Helvetica, sans-serif; background-image: url("paper.jpg"); background-size: cover}
+         h1 {color: #8A6173}
+         a {color: #8A6173}
          .text {
             width: 40%;
 
@@ -15,13 +15,33 @@
             left: 50%;
             right: 0;
 
-            margin: auto;}
+            margin: auto;
+         }
+         .profilepic {
+            width: 20%;
+            
+            position: absolute;
+            top: 45%;
+            bottom: 0;
+            right: 60%;
+            
+            margin: auto;
+         }
          #banner {
             position: absolute;
             top: 0px;
             left: 0px;
             right: 0px;
             width: 100%;
+         }
+         hr { 
+            display: block;
+            margin-top: 0.5em;
+            margin-bottom: 0.5em;
+            margin-left: auto;
+            margin-right: auto;
+            border-style: inset;
+            border-width: 1px;
          }
       </style>
       <meta charset="UTF-8">
@@ -31,13 +51,17 @@
    </head>
    <body>
       <img id="banner" src="letters_banner.jpg" alt="Miscellaneous Letters" />
+      <div class="profilepic">
+         <img id="picture" src="profile_circle.png" alt="Picture of Natalie Parde" />
+      </div>
       <div class="text">
-         <h1><u>Hi!  I'm Natalie Parde.</u></h1>
+         <h1>Hi!  I'm Natalie Parde.</h1>
+         <hr />
          <br />
          I'm a fourth-year Ph.D. candidate and member of the <a href="http://hilt.cse.unt.edu/">Human Intelligence and Language Technologies Laboratory</a>
          in the Department of Computer Science and Engineering at the University of North Texas.  My research interests are primarily in natural language
          processing, cognitive science, and machine learning.  In my spare time I serve as President of <a href="http://unt.orgsync.com/org/wic">UNT Women
-         in Computing</a>, and (in my even sparer time) I also enjoy yoga, reading, and writing creative fiction.
+         in Computing</a>, and (in my even sparer time) I also enjoy reading, yoga, and writing creative fiction.
          <br /><br />
          To connect with me, find me on the following social media channels:
          <br />
@@ -45,7 +69,7 @@
          <br />
          LinkedIn: <a href="https://www.linkedin.com/in/NatalieParde">/in/NatalieParde</a>
          <br /><br />
-         Or, just get in touch with me via email at: <span style="color: aquamarine">natalie {dot} parde {at} unt {dot} edu</span>
+         Or, just get in touch with me via email at: <span style="color: #8A6173">natalie {dot} parde {at} unt {dot} edu</span>
       </div>
    </body>
 </html>
