@@ -2,9 +2,10 @@
 <html>
    <head>
       <title>Natalie Parde</title>
+      <link href="https://fonts.googleapis.com/css?family=Convergence|Lato" rel="stylesheet">
       <style>
-         body {background-color: black; color: #556C8C; font-family: Arial, Helvetica, sans-serif; background-image: url("paper.jpg"); background-size: cover}
-         h1 {color: #8A6173}
+         body {background-color: black; color: #556C8C; font-family: 'Lato', sans-serif; background-image: url("paper.jpg"); background-size: cover; margin: 0}
+         h1 {color: #8A6173; font-family: 'Convergence', sans-serif;}
          a {color: #8A6173}
          .text {
             width: 40%;
@@ -28,11 +29,11 @@
             margin: auto;
          }
          #banner {
-            position: absolute;
             top: 0px;
             left: 0px;
             right: 0px;
             width: 100%;
+            float: left;
          }
          hr { 
             display: block;
@@ -43,6 +44,42 @@
             border-style: inset;
             border-width: 1px;
          }
+         
+         ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #556C8C;
+            
+            top: 30%;
+            width: 100%;
+         }
+
+         li {
+            float: left;
+         }
+
+         li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+         }
+
+         li a:hover {
+            background-color: #8A6173;
+         }
+         
+         .active {
+            background-color: #D5BEAC;
+         }
+         
+         #navigation {
+            float: left;
+            clear: left;
+         }
       </style>
       <meta charset="UTF-8">
       <meta name="description" content="Natalie Parde's personal website">
@@ -50,10 +87,17 @@
       <meta name="author" content="Natalie Parde">
    </head>
    <body>
-      <img id="banner" src="letters_banner.jpg" alt="Miscellaneous Letters" />
+      <div "header">
+         <img id="banner" src="letters_banner.jpg" alt="Miscellaneous Letters" />
+         <ul id="navigation">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="publications.html">Publications</a></li>
+         </ul>
+      </div>
       <div class="profilepic">
          <img id="picture" src="profile_circle.png" alt="Picture of Natalie Parde" />
       </div>
+      
       <div class="text">
          <h1>Hi!  I'm Natalie Parde.</h1>
          <hr />
