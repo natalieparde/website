@@ -1,0 +1,120 @@
+body {
+   background-color: black; 
+   color: #556C8C; 
+   font-family: 'Lato', sans-serif; 
+   background-image: url("paper_semitransparent.jpg"); 
+   background-size: cover; 
+   margin: 0
+}
+
+h1 {
+   color: #8A6173; 
+   font-family: 'Convergence', sans-serif;
+}
+
+a {
+   color: #8A6173
+}
+
+.text {
+   width: 40%;
+
+   position: absolute;
+   top:40%;
+   bottom: 0;
+   left: 50%;
+   right: 0;
+
+   margin: auto;
+}
+
+.profilepic {
+   width: 20%;
+   
+   position: absolute;
+   top: 45%;
+   bottom: 0;
+   right: 60%;
+   
+   margin: auto;
+}
+
+#banner {
+   top: 0px;
+   left: 0px;
+   right: 0px;
+   width: 100%;
+   float: left;
+}
+
+hr { 
+   display: block;
+   margin-top: 0.5em;
+   margin-bottom: 0.5em;
+   margin-left: auto;
+   margin-right: auto;
+   border-style: inset;
+   border-width: 1px;
+}
+
+ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #556C8C;
+   
+   top: 30%;
+   width: 100%;
+}
+
+li {
+   float: left;
+}
+
+li a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+
+li a:hover {
+   background-color: #8A6173;
+}
+
+.active {
+   background-color: #D5BEAC;
+}
+
+#navigation {
+   float: left;
+   clear: left;
+}
+
+#publications {
+   width: 90%;
+
+   float: left;
+   clear: left;
+   padding-left: 75px;
+   padding-right: 75px;
+   margin: auto;
+}
+
+#quote {
+   font-family: 'Homemade Apple', cursive;
+   font-size: 125%;
+   display:inline-block;
+   width: 90%;
+   padding-top: 30px;
+   padding-left: 75px;
+   padding-right: 75px;
+   margin: auto;
+   float: left;
+}
+
+i { 
+    font-style: italic;
+}
