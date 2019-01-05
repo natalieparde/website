@@ -150,3 +150,65 @@ hr.fancy-line, hr.fancy-line:before {
 body, hr.fancy-line:after {
    background: #f4f4f4;
 }
+
+.tg  {
+   border-collapse:collapse;
+   border-spacing:0;
+}
+.tg td  {
+   padding:10px 5px;
+   border-style:solid;
+   border-width:1px;
+   overflow:hidden;
+   word-break:normal;
+   border-color:#556C8C;
+}
+.tg th  {
+   padding:10px 5px;
+   border-style:solid;
+   border-width:1px;
+   overflow:hidden;
+   word-break:normal;
+   border-color:#556C8C;
+}
+.tg .tg-qtf5  {
+   border-color:#556C8C;
+   text-align:left
+}
+.tg .tg-obcv  {
+   border-color:#556C8C;
+   text-align:center
+}
+.tg .tg-wp8o  {
+   border-color:#556C8C;
+   text-align:center;
+   vertical-align:top
+}
+.tg .tg-v47y  {
+   font-weight:bold;
+   border-color:#556C8C;
+   text-align:left
+}
+.tg .tg-mcqj  {
+   font-weight:bold;
+   border-color:#556C8C;
+   text-align:left;
+   vertical-align:top
+}
+.tg .tg-73oq  {
+   border-color:#556C8C;
+   text-align:left;
+   vertical-align:top
+}
+@media screen and (max-width: 767px)  {
+   .tg  {
+      width: auto !important;
+   }
+   .tg col  {
+      width: auto !important;
+   }
+   .tg-wrap  {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+   }
+}
