@@ -35,13 +35,7 @@ a {
 
 .profilepic {
    width: 20%;
-   
-   position: absolute;
-   top: 45%;
-   bottom: 0;
-   right: 60%;
-   
-   margin: auto;
+
 }
 
 #banner {
