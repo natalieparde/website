@@ -198,7 +198,7 @@ body, hr.fancy-line:after {
 .tg .tg-73oq  {
    border-color:#556C8C;
    text-align:left;
-   vertical-align:top
+   vertical-align: middle;
 }
 @media screen and (max-width: 767px)  {
    .tg  {
