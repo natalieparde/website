@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Projects</title>
+      <title>Research Projects</title>
       <link href="https://fonts.googleapis.com/css?family=Convergence|Lato" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Homemade+Apple" rel="stylesheet">
       <link rel="stylesheet" type="text/css" href="style.css">
@@ -16,27 +16,30 @@
          <ul id="navigation">
             <li id="horizontallist"><a href="index.html">Home</a></li>
             <li id="horizontallist" class="active"><a href="research.html">Research</a></li>
+            <li id="horizontallist"><a href="team.html">Team</a></li>
             <li id="horizontallist"><a href="publications.html">Publications</a></li>
             <li id="horizontallist"><a href="teaching.html">Teaching</a></li>
-            <li id="horizontallist"><a href="students.html">Students</a></li>
             <li id="horizontallist"><a href="cv.pdf">CV</a></li>
          </ul>
       </div>
       <div id="quote">
-         "Your living room is the final frontier for robots." - Cynthia Breazeal
+         "For now, what is important is not finding the answer, but looking for it." - Douglas R. Hofstadter
       </div>
       <div id="publications">
          <h1>Research</h1>
          <br />
-         My primary research interests lie in three areas:
+         My primary research interests lie in several areas:
          <ul>
-            <li>Dialogue systems and their applications</li>
-            <li>Computational processing of figurative language and other forms of linguistic creativity</li>
+            <li>Interactive systems</li>
+            <li>Creative (primarily figurative) language</li>
+            <li>Multimodality</li>
             <li>Grounded language learning</li>
          </ul>
-         Furthermore, I am interested in deploying research in those areas to facilitate cognitive and psychological well-being, primarily via human-robot interactive systems.  Below, I provide a brief overview of the projects in which I have been involved to date; for additional details, please refer to the relevant papers listed (if applicable) or send me an email.  Most of my research has been conducted in the <a href="http://hilt.cse.unt.edu/" target="_blank">Human Intelligence and Language Technologies Laboratory</a>, part of the <a href="http://computerscience.engineering.unt.edu/" target="_blank">UNT Department of Computer Science and Engineering</a>.
+         Furthermore, I am interested in deploying research in those areas to facilitate cognitive and psychological well-being.  Below, I provide a brief overview of the projects in which I have been involved to date; for additional details, please refer to the relevant papers listed (if applicable) or send me an email.  My most recent work has been conducted in UIC's <a href="https://nlp.lab.uic.edu/">Natural Language Processing Laboratory</a>, which I co-direct.  Most of my earlier research was conducted in UNT's <a href="http://hilt.cse.unt.edu/" target="_blank">Human Intelligence and Language Technologies Laboratory</a>.
          <br /><br />
          <nav>
+            <a href="#visual_storytelling">Visual Storytelling</a> |
+            <a href="#dementia_detection">Dementia Detection</a> |
             <a href="#metaphor_novelty_scoring">Metaphor Novelty Scoring</a> |
             <a href="#metaphor_novelty_datasets">Metaphor Novelty Dataset(s)</a> |
             <a href="#label_aggregation">Automatically Aggregating Crowdsourced Labels</a> |
@@ -46,6 +49,20 @@
             <a href="#hardware_mapping">Crowdsourcing Hardware Mapping Algorithms</a>
          </nav>
          <br/>
+         <hr class="fancy-line"></hr>
+         <h2 id="visual_storytelling">Visual Storytelling</h2>
+         Visual storytelling is the generation of a cohesive, sequential set of descriptions across multiple images. It differs from image captioning in that the text generated is subjective (and in many cases metaphoric), and it hinges on greater context (the order of the images presented). We have performed a thorough error analysis of current visual storytelling models by specifying common types of errors and providing examples for the same. Based on these errors, we made recommendations regarding how to improve the current models, and are now working on developing our own improved model. More details about our error analysis can be found below:
+             <br/><br/>
+             <a href="https://www.aclweb.org/anthology/W19-1805/">Yatri Modi and Natalie Parde. The Steep Road to Happily Ever After: An Analysis of Current Visual Storytelling Models. In the <i>Proceedings of the NAACL 2019 Workshop on Shortcomings in Vision and Language (SiVL 2019)</i>. Minneapolis, Minnesota, June 6, 2019.</a>
+              <br/><br/>
+         <hr class="fancy-line"></hr>
+         <h2 id="dementia_detection">Dementia Detection</h2>
+         We developed an automated approach for dementia detection that learns to predict individuals' Alzheimer's disease or related dementia (ADRD) status based on their linguistic patterns in transcribed speech samples.  These speech samples were collected during a short, conversational, picture description task.  We utilized a deep CNN-LSTM architecture designed to leverage both implicitly learned and targeted linguistic features, achieving high performance (F1 &gt; 0.9) when classifying individuals into ADRD and control groups.  More details about this currently ongoing work can be found here:
+             <br/><br/>
+             <a href="https://www.aclweb.org/anthology/P19-2042/">Flavio Di Palo and Natalie Parde. Enriching Neural Models with Targeted Features for Dementia Detection. In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, Student Research Workshop (ACL SRW 2019)</i>. Florence, Italy, July 28-August 2, 2019.</a>
+              <br/><br/>
+              Source code for this work is available <a href="https://github.com/flaviodipalo/AlzheimerDetection">here</a>.
+              <br/><br/>
          <hr class="fancy-line"></hr>
          <h2 id="metaphor_novelty_scoring">Metaphor Novelty Scoring</h2>
          For my dissertation work, I developed a human-robot book discussion system that focuses its discussions on particularly novel or creative metaphors in the books being discussed.  A central component of this project was in developing an accurate metaphor novelty scoring model---essentially, the system needed to avoid asking questions about conventional metaphors (e.g., spending an hour on homework) and instead only ask questions about those that the reader was unlikely to have encountered on a regular basis (e.g., frowning like a thunderstorm).  However, work on computational metaphor processing prior to this had confined itself to the problem of metaphor detection (that is, determining whether or not a fragment of text is a metaphor) rather than extending to the problem of determining how novel that metaphor might be.
@@ -60,8 +77,8 @@
          <h2 id="metaphor_novelty_datasets">Metaphor Novelty Dataset(s)</h2>
          To evaluate my work on automatically scoring metaphor novelty, I built a large, publicly available dataset of syntactically-related word pairs labeled for metaphor novelty on a continuous scale.  The word pairs were extracted from running text originating in the <a href="http://www.vismet.org/metcor/documentation/home.html" target="_blank">VU Amsterdam Metaphor Corpus</a>, the most widely used metaphor detection dataset to date.  The VUAMC is comprised of text fragments from news articles, academic publications, fiction narratives, and transcribed conversations; within the text fragments, individual words are labeled as metaphors.  I extracted  18,439 syntactically-related pairs of nouns, verbs, adjectives, and adverbs in which at least one of the two words was originally tagged as a metaphor in the VUAMC, and collected annotations for the word pairs from Amazon Mechanical Turk workers on a scale from 0-3, with 3 meaning the word pair formed a highly novel metaphor.  This dataset will be described in our upcoming LREC paper:
          <br/><br/>
-         <div style="color: #8A6173;">Natalie Parde and Rodney D. Nielsen. A Corpus of Metaphor Novelty Scores for Syntactically-Related Word Pairs. In the <i>Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC 2018)</i>. Miyazaki, Japan, May 7-12, 2018.</div>
-         <br/>
+         <a href="http://www.lrec-conf.org/proceedings/lrec2018/pdf/242.pdf">Natalie Parde and Rodney D. Nielsen. A Corpus of Metaphor Novelty Scores for Syntactically-Related Word Pairs. In the <i>Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC 2018)</i>. Miyazaki, Japan, May 7-12, 2018.</a>
+         <br/><br/>
          The dataset can be downloaded <a href="http://hilt.cse.unt.edu/resources.html" target="_blank">here</a>.  I am currently in the process of developing a complementary corpus of syntactically-related word pairs extracted from Project Gutenberg books, also labeled for metaphor novelty; when finished, this dataset will be publicly available as well.
          <br/><br/>
          <hr class="fancy-line"></hr>
@@ -94,7 +111,7 @@
          <br/><br/>
          <hr class="fancy-line"></hr>
          <h2 id="cybersecurity_and_eeg">Cybersecurity and EEG</h2>
-         In the past, I have occasionally collaborated with researchers from <a href="http://cics.unt.edu/" target="_blank">UNT's Center for Information and Cyber Security</a> on NLP- or cognitive science-based aspects of work in the cybersecurity domain.  In one recent study, I worked with these collaborators and additional researchers from <a href="https://cob.unt.edu/" target="_blank">UNT's College of Business</a> and <a href="https://electrical.engineering.unt.edu/" target="_blank">UNT's Department of Electrical Engineering</a> to conduct an electroencephalogram (EEG) and eye tracking study to determine whether there are neural signatures or gaze patterns associated with the performance of malicious computer activity (e.g., hacking).  My primary role was in data acquisition; I assisted in designing the experimental setup, ran participants, and monitored the EEG and eye tracking systems during data collection.  Additional studies using the data collected are still underway, but one paper co-authored on this project recently won the Dr. Hermann Zemlicka Award for Most Visionary Paper at the Gmunden Retreat on NeuroIS; that paper can be found here:
+         In the past, I have occasionally collaborated with researchers from <a href="http://cics.unt.edu/" target="_blank">UNT's Center for Information and Cyber Security</a> on NLP- or cognitive science-based aspects of work in the cybersecurity domain.  In one study, I worked with these collaborators and additional researchers from <a href="https://cob.unt.edu/" target="_blank">UNT's College of Business</a> and <a href="https://electrical.engineering.unt.edu/" target="_blank">UNT's Department of Electrical Engineering</a> to conduct an electroencephalogram (EEG) and eye tracking study to determine whether there are neural signatures or gaze patterns associated with the performance of malicious computer activity (e.g., hacking).  My primary role was in data acquisition; I assisted in designing the experimental setup, ran participants, and monitored the EEG and eye tracking systems during data collection.  Additional studies using the data collected are still underway, but one paper co-authored on this project won the Dr. Hermann Zemlicka Award for Most Visionary Paper at the Gmunden Retreat on NeuroIS; that paper can be found here:
          <br/><br/>
          <a href="https://link.springer.com/chapter/10.1007/978-3-319-67431-5_24">Nabila Salma, Bin Mai, Kamesh Namuduri, Rasel Mamun, Yassir Hashem, Hassan Takabi, Natalie Parde, and Rodney Nielsen. Using EEG Signal to Analyze IS Decision Making Cognitive Processes. In Information Systems and Neuroscience, Lecture Notes in Information Systems and Organisation.</a>
          <br/><br/>
