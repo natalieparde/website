@@ -1,7 +1,7 @@
 site: Natalie Parde's Personal Website
 
 url: natalieparde.github.io
-baseurl: /website
+baseurl: ""
 
 collections:
   pages:
