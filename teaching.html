@@ -1,45 +1,30 @@
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>Teaching</title>
-      <link href="https://fonts.googleapis.com/css?family=Convergence|Lato" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Homemade+Apple" rel="stylesheet">
-      <link rel="stylesheet" type="text/css" href="style.css">
-      <meta charset="UTF-8">
-      <meta name="description" content="Natalie Parde's personal website">
-      <meta name="keywords" content="Natalie, Parde, Computer, Science, Natural, Language, Processing, Cognitive, Science, Artificial, Intelligence, UNT">
-      <meta name="author" content="Natalie Parde">
-   </head>
-   <body>
-      <div "header">
-         <img id="banner" src="letters_banner.jpg" alt="Miscellaneous Letters" />
-         <ul id="navigation">
-            <li id="horizontallist"><a href="index.html">Home</a></li>
-            <li id="horizontallist"><a href="research.html">Research</a></li>
-            <li id="horizontallist"><a href="team.html">Team</a></li>
-            <li id="horizontallist"><a href="publications.html">Publications</a></li>
-            <li id="horizontallist" class="active"><a href="teaching.html">Teaching</a></li>
-            <li id="horizontallist"><a href="cv.pdf">CV</a></li>
-         </ul>
-      </div>
-      <div id="quote">
-         "All programmers are playwrights and all computers are lousy actors." - Anonymous
-      </div>
-      <div id="publications">
-          <br />
-          This page contains links to the course websites for all current and previous classes I have taught.  Feel free to browse through the course materials for your own independent learning purposes!  Instructors, if you use these materials in any of your classes, please link back to this website and/or cite the original slides if applicable (and send me an email if you'd like access to any materials not already included on the course website).
-         <h1>Current</h1>
-         <a href="teaching/cs521_spring2021.html">CS 521: Statistical Natural Language Processing</a>
-         <br /><br />
-         <h1>Previous</h1>
-         <a href="teaching/cs421_fall2020.html">CS 421: Natural Language Processing (Fall 2020)</a>
-         <br /><br />
-         <a href="teaching/cs521_spring2020.html">CS 521: Statistical Natural Language Processing (Spring 2020)</a>
-         <br /><br />
-         <a href="teaching/cs421_fall2019.html">CS 421: Natural Language Processing (Fall 2019)</a>
-         <br /><br />
-         <a href="teaching/cs594_spring2019.html">CS 594: Language and Vision (Spring 2019)</a>
-         <br /><br />
-      </div>
-   </body>
-</html>
+---
+layout: default
+overtitle:
+title: Natalie Parde - Teaching
+description: Assistant Professor, Department of Computer Science | Co-Director, UIC Natural Language Processing Laboratory
+featured_image: /images/social.jpg
+---
+
+<div class="page-home">
+
+	{% if site.data.settings.hero_settings.background_image %}
+	<img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">
+	{% endif %}
+
+    <div class="wrap">
+        <br /><br />
+        This page contains links to the course websites for all current and previous classes I have taught. Feel free to browse through the course materials for your own independent learning purposes! Instructors, if you use these materials in any of your classes, please link back to this website and/or cite the original slides if applicable (and send me an email if you'd like access to any materials not already included on the course website).
+        <br /><br />
+        <h2>Current</h2>
+        None right now!  Have a wonderful summer break. 🙂
+        <br /><br />
+        <h2>Previous</h2>
+        <a href="/teaching/cs521_spring2021.html" target="_blank">CS 521: Natural Language Processing (Spring 2021)</a><br /><br />
+        <a href="/teaching/cs421_fall2020.html" target="_blank">CS 421: Natural Language Processing (Fall 2020)</a><br /><br />
+        <a href="/teaching/cs521_spring2020.html" target="_blank">CS 521: Natural Language Processing (Spring 2020)</a><br /><br />
+        <a href="/teaching/cs421_fall2019.html" target="_blank">CS 421: Natural Language Processing (Fall 2019)</a><br /><br />
+        <a href="/teaching/cs594_spring2019.html" target="_blank">CS 594: Language and Vision (Spring 2019)</a>
+    </div>
+
+</div>

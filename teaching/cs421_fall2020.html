@@ -1,371 +1,361 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>CS 421: Natural Language Processing</title>
-        <link href="https://fonts.googleapis.com/css?family=Convergence|Lato" rel="stylesheet">
-            <link href="https://fonts.googleapis.com/css?family=Homemade+Apple" rel="stylesheet">
-                <link rel="stylesheet" type="text/css" href="../style.css">
-                    <meta charset="UTF-8">
-                        <meta name="description" content="Natalie Parde's personal website">
-                            <meta name="keywords" content="Natalie, Parde, Computer, Science, Natural, Language, Processing, Cognitive, Science, Artificial, Intelligence, UNT, Vision">
-                                <meta name="author" content="Natalie Parde">
-                                    </head>
-    <body>
-        <div "header">
-            <img id="banner" src="../letters_banner.jpg" alt="Miscellaneous Letters" />
-            <ul id="navigation">
-                <li id="horizontallist"><a href="../index.html">Home</a></li>
-                <li id="horizontallist"><a href="../research.html">Research</a></li>
-                <li id="horizontallist"><a href="../team.html">Team</a></li>
-                <li id="horizontallist"><a href="../publications.html">Publications</a></li>
-                <li id="horizontallist" class="active"><a href="../teaching.html">Teaching</a></li>
-                <li id="horizontallist"><a href="../cv.pdf">CV</a></li>
-            </ul>
-        </div>
-        <div id="publications">
-            <h1 style="text-align:center;">CS 421: Natural Language Processing</h1>
-            <h2 style="text-align:center;">Fall 2020</h2>
-            <h3>Contact Information</h3>
-            <table>
-                <tr>
-                    <td><b>Professor:</b></td>
-                    <td></td>
-                    <td>Natalie Parde (<a href="mailto:parde@uic.edu">parde@uic.edu</a>)</td>
-                </tr>
-                <tr>
-                    <td><b>Office Hours:</b></td>
-                    <td></td>
-                    <td>Virtual, Tuesday 9:30 - 10:30 a.m. / Thursday 3:00 - 4:00 p.m. CST</td>
-                </tr>
-                <tr><td>&nbsp;</td></tr>
-                <tr>
-                    <td><b>Teaching Assistant:</b></td>
-                    <td></td>
-                    <td>Usman Shahid (<a href="mailto:hshahi6@uic.edu">hshahi6@uic.edu</a>)</td>
-                </tr>
-                <tr>
-                <td><b>Office Hours:</b></td>
-                    <td></td>
-                    <td>Virtual, Wednesday / Friday 9:00 - 11:00 a.m. CST</td>
-                </tr>
-                <tr><td>&nbsp;</td></tr>
-                <tr>
-                    <td><b>Piazza:</b></td>
-                    <td></td>
-                    <td><a href="https://piazza.com/uic/fall2020/cs421" target="_blank">https://piazza.com/uic/fall2020/cs421</a></td>
-                </tr>
-                
-            </table>
-            <br />
-            <h3>What is this class about?</h3>
-            Natural language processing (NLP) is the subfield of artificial intelligence that focuses on automatically understanding and generating natural language (e.g., Arabic, Navajo, Spanish, or English).  It is crucial to many everyday applications ...if you've searched for something online or engaged in dialogue with one of your devices today, you've made use of many different NLP technologies already.  This class will provide an introduction to the foundations and most popular applications of natural language processing, through a combination of readings, videos, short assignments, and projects.  Topics covered will include text preprocessing, part-of-speech tagging, syntactic and dependency parsing, language modeling, word embeddings, text classification, and dialogue systems, among others.
-            <br /><br />
-            <h3>Textbooks</h3>
-            Readings, learning content, and (some) assignments for this class will be drawn from the following source:
-            <br />- <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Daniel Jurafsky and James H Martin. <i>Speech and Language Processing (3rd Edition)</i>. Draft, 2019.</a>
-            <br /><br />
-            This textbook is still being written; its current draft can be freely accessed at the link above.
-            <br /><br />
-            <h3>Deliverables</h3>
-            This is a 400-level course, designed for both graduate students and advanced undergraduates.  Depending on your classification, you may have enrolled in either the four-hour version (grad students) or the three-hour version (undergrad students).  There are slightly different requirements for the two versions of the course, with the biggest difference being that grad students will be required to complete a semester-long research highlight.  Undergrads may opt to complete a research highlight as well if they would like, in which case their final course grade will be determined according to the same breakdown as that used for graduate students; however, doing this extra work is certainly not a requirement.  Some further details about the work you will be expected to complete for this course are provided below:
-            <ul>
-                <li><b>Assignments:</b> Seven short assignments will be due over the course of the semester (due dates are indicated on the course calendar).  These assignments will contain a mix of theoretical and coding questions.  Code should be written in Python.</li>
-                <li><b>Chatbot Project:</b> All students will build their own chatbot over the course of the semester.  This project will be divided into six short deliverables (due dates are indicated on the course calendar).  Code, when applicable, should be written in Python.</li>
-                <li><b>Research Highlight:</b> Graduate students (and any undergraduates who choose to do so) will complete a semester-long research highlight, due the week before finals week.  The research highlight can be either (1) a written literature review and video overview, or (2) a custom project and video overview.  Research highlights can be completed individually or in pairs; if done in pairs, the submission must be accompanied by a statement detailing which component(s) each student worked on, signed by both students.</li>
-            </ul>
-            
-            Grading rubrics for all deliverables will be posted in their descriptions, and solutions for assignments will be posted after grading is complete.  You are encouraged to use these solutions to further your understanding of the course material.  Final course grades will be determined according to the following breakdowns:
-            <ul>
-                <li>Undergraduate Students:
-                <ul>
-                    <li>Chatbot Project: 30% (5% for each deliverable)</li>
-                    <li>Assignments: 70% (10% for each assignment)</li>
-                </ul>
-                </li>
-                <li>Graduate Students:
-                <ul>
-                    <li>Chatbot Project: 15% (2.5% for each deliverable)</li>
-                    <li>Assignments: 70% (10% for each assignment)</li>
-                    <li>Research Highlight: 15% (7.5% for the literature review or custom project, and 7.5% for the video overview)</li>
-                </ul>
-                </li>
-            </ul>
-            <br />
-            <h3>Schedule</h3>
-            Below is a list of course topics, readings, and deadlines, by week.  Links to short, prerecorded videos about content pertaining to a week's topic will be posted approximately one week after the in-class premiere. Links to the accompanying slides can be found in the video description. The version of the schedule here is subject to change.  All deliverables are due by 12:00 p.m. (noon) CST on the specified due date.
-            <br /><br />
-            <div class="tg-wrap"><table class="tg">
-              <tr>
-                <th class="tg-v47y">Week</th>
-                <th class="tg-v47y" style="width:30%">Topic</th>
-                <th class="tg-v47y">Readings</th>
-                <th class="tg-v47y">Deliverables</th>
-                <th class="tg-mcqj">Video Links</th>
-              </tr>
-              <tr>
-                <td class="tg-qtf5">8/24-8/28</td>
-                <td class="tg-qtf5">Introduction and Dialogue Systems and Chatbots</td>
-                <td class="tg-qtf5">Chapter 26</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/zlBM2DsVbFg" target="_blank">Properties of Human-Human Conversation</a>
-                    <br /><br />
-                    <a href="https://youtu.be/mtKNxmFXnhE" target="_blank">Rule-Based Chatbots</a>
-                    <br /><br />
-                    <a href="https://youtu.be/zZOzKQPSrDo" target="_blank">Corpus-Based Chatbots</a>
-                    <br /><br />
-                    <a href="https://youtu.be/qZt3Fp1d_iQ" target="_blank">Frame-Based Dialogue Systems</a>
-                    <br /><br />
-                    <a href="https://youtu.be/qiiHOVrUBT8" target="_blank">Dialogue Management</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-qtf5">8/31-9/4</td>
-                <td class="tg-qtf5">Text Preprocessing and Edit Distance</td>
-                <td class="tg-qtf5">Chapter 2</td>
-                <td class="tg-73oq">Chatbot: WOZ Study (9/4)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/XzMcYe_P-xM" target="_blank">Regular Expressions</a>
-                    <br /><br />
-                    <a href="https://youtu.be/CxFHE7s5y48" target="_blank">Finite State Automata</a>
-                    <br /><br />
-                    <a href="https://youtu.be/QIFIvFiRi2I" target="_blank">Finite State Transducers</a>
-                    <br /><br />
-                    <a href="https://youtu.be/hd0szXz4XV4" target="_blank">Text Tokenization</a>
-                    <br /><br />
-                    <a href="https://youtu.be/zNnYgbdtVL0" target="_blank">Edit Distance</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">9/7-9/11</td>
-                <td class="tg-73oq">Hidden Markov Models and Language Modeling with N-Grams</td>
-                <td class="tg-73oq">Appendix A and Chapter 3</td>
-                <td class="tg-73oq">Assignment 1 (9/11)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/Gx7qxa5b49U" target="_blank">Hidden Markov Models</a>
-                    <br /><br />
-                    <a href="https://youtu.be/shLknMK-ovk" target="_blank">Forward Probabilities</a>
-                    <br /><br />
-                    <a href="https://youtu.be/Xh3mf9O5SL0" target="_blank">Viterbi Algorithm</a>
-                    <br /><br />
-                    <a href="https://youtu.be/UKAQF8wHxkE" target="_blank">N-Grams and Maximum Likelihood Estimation</a>
-                    <br /><br />
-                    <a href="https://youtu.be/1jruWnFhWfU" target="_blank">Evaluating Language Models</a>
-                    <br /><br />
-                    <a href="https://youtu.be/QGT6XTeA3YQ" target="_blank">N-Gram Smoothing Techniques</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">9/14-9/18</td>
-                <td class="tg-73oq">Naive Bayes and Text Classification</td>
-                <td class="tg-73oq">Chapter 4</td>
-                <td class="tg-73oq">Chatbot: Design (9/18)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/aK9Ih21Fv4A" target="_blank">Introduction to Naive Bayes</a>
-                    <br /><br />
-                    <a href="https://youtu.be/aMZrfhCwgO8" target="_blank">Training a Naive Bayes Classifier using BOW Features</a>
-                    <br /><br />
-                    <a href="https://youtu.be/6RpYVHec5PQ" target="_blank">Naive Bayes as a Language Model</a>
-                    <br /><br />
-                    <a href="https://youtu.be/upEhftU-HtQ" target="_blank">Evaluating Text Classification Models</a>
-                    <br /><br />
-                    <a href="https://youtu.be/wiVEGu9lYEA" target="_blank">Multi-Label and Multinomial Classification</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">9/21-9/25</td>
-                <td class="tg-73oq">Logistic Regression and Conditional Random Fields</td>
-                <td class="tg-73oq">Chapter 5</td>
-                <td class="tg-73oq">Assignment 2 (9/25)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/tRTaaFhNBxY" target="_blank">Basic Logistic Regression Classifier</a>
-                    <br /><br />
-                    <a href="https://youtu.be/N3w-BfyTowM" target="_blank">Cross-Entropy Loss</a>
-                    <br /><br />
-                    <a href="https://youtu.be/uonSAXwvU4g" target="_blank">Gradient Descent</a>
-                    <br /><br />
-                    <a href="https://youtu.be/qQEQiPAxFxM" target="_blank">Conditional Random Fields</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">9/28-10/2</td>
-                <td class="tg-73oq">Vector Semantics and Embeddings</td>
-                <td class="tg-73oq">Chapter 6</td>
-                <td class="tg-73oq">Chatbot: Dialogue Manager  (10/2)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/j7MKAAIZAqI" target="_blank">Basic Word Representations</a>
-                    <br /><br />
-                    <a href="https://youtu.be/P5j2IIkzY7s" target="_blank">TF-IDF</a>
-                    <br /><br />
-                    <a href="https://youtu.be/TWbPIPa8Ff4" target="_blank">Cosine Similarity</a>
-                    <br /><br />
-                    <a href="https://youtu.be/y-7FKY7IPJU" target="_blank">Word2Vec</a>
-                    <br /><br />
-                    <a href="https://youtu.be/TNrPdi6Uhu0" target="_blank">Other Word Embedding Types</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">10/5-10/9</td>
-                <td class="tg-73oq">Neural Networks and Neural Language Models</td>
-                <td class="tg-73oq">Chapter 7</td>
-                <td class="tg-73oq">Assignment 3 (10/9)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/QK7GJZ94qPw" target="_blank">Feedforward Neural Network Basics</a>
-                    <br /><br />
-                    <a href="https://youtu.be/Tz8gWgJZ6vQ" target="_blank">Building Blocks for Neural Networks</a>
-                    <br /><br />
-                    <a href="https://youtu.be/g8EplwD4wH4" target="_blank">Activation Functions</a>
-                    <br /><br />
-                    <a href="https://youtu.be/0e06GssKJzU" target="_blank">Combining Computational Units</a>
-                    <br /><br />
-                    <a href="https://youtu.be/hN739XOzwpg" target="_blank">Neural Language Models</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">10/12-10/16</td>
-                <td class="tg-73oq">Part-of-Speech Tagging and Constituency Grammars</td>
-                <td class="tg-73oq">Chapters 8 and 12</td>
-                <td class="tg-73oq">Chatbot: Natural Language Generation (10/16)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/U4DXyuuWBXY" target="_blank">POS Tagsets</a>
-                    <br /><br />
-                    <a href="https://youtu.be/23FdSkE87ec" target="_blank">Statistical POS Tagging</a>
-                    <br /><br />
-                    <a href="https://youtu.be/hDrLEcmRiXM" target="_blank">Context-Free Grammars</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">10/19-10/23</td>
-                <td class="tg-73oq">Rule-Based and Statistical Constituency Parsing</td>
-                <td class="tg-73oq">Chapters 13 and 14</td>
-                <td class="tg-73oq">Assignment 4 (10/23)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/siEJb5EFY6Y" target="_blank">Top-Down and Bottom-Up Parsing</a>
-                    <br /><br />
-                    <a href="https://youtu.be/17re2zDBuOM" target="_blank">CKY Algorithm</a>
-                    <br /><br />
-                    <a href="https://youtu.be/1j6hB3O4hAM" target="_blank">Earley Parsing</a>
-                    <br /><br />
-                    <a href="https://youtu.be/54n6QVVHfXI" target="_blank">Partial Parsing</a>
-                    <br /><br />
-                    <a href="https://youtu.be/DjJYKmAuAJ0" target="_blank">Probabilistic CKY Algorithm</a>
-                    <br /><br />
-                    <a href="https://youtu.be/ubcsi4djGig" target="_blank">Probabilistic Lexicalized CFGs</a>
-                    <br /><br />
-                    <a href="https://youtu.be/iCy9nGTYNdo" target="_blank">Probabilistic CCG Parsing</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                  <td class="tg-73oq">10/26-10/30</td>
-                  <td class="tg-73oq">Dependency Parsing and Logical Representations of Sentence Meaning</td>
-                  <td class="tg-73oq">Chapters 15 and 16</td>
-                  <td class="tg-73oq">Assignment 5  (10/30)</td>
-                  <td class="tg-73oq">
-                      <a href="https://youtu.be/J0tS0CCp40M" target="_blank">Dependency Relations</a>
-                      <br /><br />
-                      <a href="https://youtu.be/oLHnqGmQtI4" target="_blank">Transition-Based Dependency Parsing</a>
-                      <br /><br />
-                      <a href="https://youtu.be/dOCRzahEL84" target="_blank">Graph-Based Dependency Parsing</a>
-                      <br /><br />
-                      <a href="https://youtu.be/yafSmVPfqCc" target="_blank">Components of Representational Systems</a>
-                      <br /><br />
-                      <a href="https://youtu.be/8xJgmpGK2CQ" target="_blank">Model-Theoretic Semantics</a>
-                      <br /><br />
-                      <a href="https://youtu.be/Nfb-ZCePRzg" target="_blank">First-Order Logic</a>
-                      <br /><br />
-                      <a href="https://youtu.be/has1UcGuWeo" target="_blank">Description Logics</a>
-                  </td> <!-- Change class to tg-73oq for better link formatting. -->
-                </tr>
-              <tr>
-                <td class="tg-73oq">11/2-11/6</td>
-                <td class="tg-73oq">Word Senses and WordNet and Semantic Role Labeling</td>
-                <td class="tg-73oq">Chapters 19 and 20</td>
-                <td class="tg-73oq">Chatbot: Natural Language Understanding (11/6)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/2IHA8QgKwbw" target="_blank">Overview of WordNet</a>
-                    <br /><br />
-                    <a href="https://youtu.be/wxZwML6Gs3o" target="_blank">Word Sense Disambiguation</a>
-                    <br /><br />
-                    <a href="https://youtu.be/tRaOIKqMKR8" target="_blank">Overview of FrameNet</a>
-                    <br /><br />
-                    <a href="https://youtu.be/jb55DnSV1rk" target="_blank">Semantic Role Labeling</a>
-                    <br /><br />
-                    <a href="https://youtu.be/At2__X98NGY" target="_blank">Semantic Roles</a>
-                    <br /><br />
-                    <a href="https://youtu.be/ZvRnLG1lIvU" target="_blank">Selectional Restrictions</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">11/9-11/13</td>
-                <td class="tg-73oq">Lexicons for Sentiment, Affect, and Connotation</td>
-                <td class="tg-73oq">Chapter 21</td>
-                <td class="tg-73oq">Assignment 6   (11/13)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/dg_og8MrMXM" target="_blank">Creating Sentiment and Affect Lexicons</a>
-                    <br /><br />
-                    <a href="https://youtu.be/MXHAKnL3Zdo" target="_blank">Supervised Learning of Word Sentiment</a>
-                    <br /><br />
-                    <a href="https://youtu.be/TAB1xKHvseE" target="_blank">Affect Recognition</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">11/16-11/20</td>
-                <td class="tg-73oq">Coreference Resolution</td>
-                <td class="tg-73oq">Chapter 22</td>
-                <td class="tg-73oq">Chabot: Evaluation (11/20)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/inK8XSKYy_o" target="_blank">Overview of Coreference Resolution</a>
-                    <br /><br />
-                    <a href="https://youtu.be/fhIoLnrFBlw" target="_blank">Coreference Tasks</a>
-                    <br /><br />
-                    <a href="https://youtu.be/69w4H4XoXYM" target="_blank">The Mention-Pair Architecture</a>
-                    <br /><br />
-                    <a href="https://youtu.be/QGMeDwNRF78" target="_blank">Neural Coreference Resolution Models</a>
-                    <br /><br />
-                    <a href="https://youtu.be/3zUXkSJWbR4" target="_blank">Winograd Schema Problems</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">11/23-11/27</td>
-                <td class="tg-73oq">Discourse Coherence</td>
-                <td class="tg-73oq">Chapter 23</td>
-                <td class="tg-73oq">Assignment 7 (11/25)</td>
-                <td class="tg-73oq">
-                    <a href="https://youtu.be/cS4qTRNS6Z0" target="_blank">Rhetorical Structure Theory</a>
-                    <br /><br />
-                    <a href="https://youtu.be/fhAQpty7e4g" target="_blank">Penn Discourse Treebank</a>
-                    <br /><br />
-                    <a href="https://youtu.be/tmAK6EN9toE" target="_blank">Discourse Parsing</a>
-                    <br /><br />
-                    <a href="https://youtu.be/93Iwq_SDHXU" target="_blank">Centering Theory</a>
-                    <br /><br />
-                    <a href="https://youtu.be/qmrh09ej4y8" target="_blank">Entity Grid Model</a>
-                    <br /><br />
-                    <a href="https://youtu.be/urAq-zEPcXY" target="_blank">Global Coherence</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">11/30-12/4</td>
-                <td class="tg-73oq">Wrap-Up and Research Highlight Videos</td>
-                <td class="tg-wp8o">&mdash;</td>
-                <td class="tg-73oq">Research Highlights (11/30)</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">12/7-12/11</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-wp8o">&mdash;</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-obcv">&mdash;</td>
-              </tr>
-            </table></div>
-            <br />
-            <h3>Final Notes</h3>
-            This website is provided partially for student convenience, partially for my own record-keeping purposes, and partially for the benefit of others who are not able to enroll in the course but who may find the content interesting for one reason or another.  It is not a substitute for the course pages on Blackboard and Gradescope, or the course discussion board on Piazza!  Please refer to those sources for copies of the full syllabus, assignments, grading rubrics, submission links, and other useful information.  If you are not enrolled in the course but would like to request access to those materials, please send me an email introducing yourself and explaining why you would like to have access to them.
-            <br /><br />
-            Happy studying!
-            <br /><br />
-        </div>
-    </body>
-</html>
+---
+layout: default
+overtitle:
+title: Natalie Parde - Teaching
+description: Assistant Professor, Department of Computer Science | Co-Director, UIC Natural Language Processing Laboratory
+featured_image: /images/social.jpg
+---
 
+<div class="page-home">
+
+    {% if site.data.settings.hero_settings.background_image %}
+    <img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">
+    {% endif %}
+
+    <div class="wrap">
+        <br /><br />
+        <h1 style="text-align:center;">CS 421: Natural Language Processing</h1>
+        <h2 style="text-align:center;">Fall 2020</h2>
+        <h3>Contact Information</h3>
+        <table>
+            <tr>
+                <td><b>Professor:</b></td>
+                <td></td>
+                <td>Natalie Parde (<a href="mailto:parde@uic.edu">parde@uic.edu</a>)</td>
+            </tr>
+            <tr>
+                <td><b>Office Hours:</b></td>
+                <td></td>
+                <td>Virtual, Tuesday 9:30 - 10:30 a.m. / Thursday 3:00 - 4:00 p.m. CST</td>
+            </tr>
+            <tr><td>&nbsp;</td></tr>
+            <tr>
+                <td><b>Teaching Assistant:</b></td>
+                <td></td>
+                <td>Usman Shahid (<a href="mailto:hshahi6@uic.edu">hshahi6@uic.edu</a>)</td>
+            </tr>
+            <tr>
+            <td><b>Office Hours:</b></td>
+                <td></td>
+                <td>Virtual, Wednesday / Friday 9:00 - 11:00 a.m. CST</td>
+            </tr>
+            <tr><td>&nbsp;</td></tr>
+            <tr>
+                <td><b>Piazza:</b></td>
+                <td></td>
+                <td><a href="https://piazza.com/uic/fall2020/cs421" target="_blank">https://piazza.com/uic/fall2020/cs421</a></td>
+            </tr>
+            
+        </table>
+        <br />
+        <h3>What is this class about?</h3>
+        Natural language processing (NLP) is the subfield of artificial intelligence that focuses on automatically understanding and generating natural language (e.g., Arabic, Navajo, Spanish, or English).  It is crucial to many everyday applications ...if you've searched for something online or engaged in dialogue with one of your devices today, you've made use of many different NLP technologies already.  This class will provide an introduction to the foundations and most popular applications of natural language processing, through a combination of readings, videos, short assignments, and projects.  Topics covered will include text preprocessing, part-of-speech tagging, syntactic and dependency parsing, language modeling, word embeddings, text classification, and dialogue systems, among others.
+        <br /><br />
+        <h3>Textbooks</h3>
+        Readings, learning content, and (some) assignments for this class will be drawn from the following source:
+        <br />- <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Daniel Jurafsky and James H Martin. <i>Speech and Language Processing (3rd Edition)</i>. Draft, 2019.</a>
+        <br /><br />
+        This textbook is still being written; its current draft can be freely accessed at the link above.
+        <br /><br />
+        <h3>Deliverables</h3>
+        This is a 400-level course, designed for both graduate students and advanced undergraduates.  Depending on your classification, you may have enrolled in either the four-hour version (grad students) or the three-hour version (undergrad students).  There are slightly different requirements for the two versions of the course, with the biggest difference being that grad students will be required to complete a semester-long research highlight.  Undergrads may opt to complete a research highlight as well if they would like, in which case their final course grade will be determined according to the same breakdown as that used for graduate students; however, doing this extra work is certainly not a requirement.  Some further details about the work you will be expected to complete for this course are provided below:
+        <ul>
+            <li><b>Assignments:</b> Seven short assignments will be due over the course of the semester (due dates are indicated on the course calendar).  These assignments will contain a mix of theoretical and coding questions.  Code should be written in Python.</li>
+            <li><b>Chatbot Project:</b> All students will build their own chatbot over the course of the semester.  This project will be divided into six short deliverables (due dates are indicated on the course calendar).  Code, when applicable, should be written in Python.</li>
+            <li><b>Research Highlight:</b> Graduate students (and any undergraduates who choose to do so) will complete a semester-long research highlight, due the week before finals week.  The research highlight can be either (1) a written literature review and video overview, or (2) a custom project and video overview.  Research highlights can be completed individually or in pairs; if done in pairs, the submission must be accompanied by a statement detailing which component(s) each student worked on, signed by both students.</li>
+        </ul>
+        <br />
+        Grading rubrics for all deliverables will be posted in their descriptions, and solutions for assignments will be posted after grading is complete.  You are encouraged to use these solutions to further your understanding of the course material.  Final course grades will be determined according to the following breakdowns:
+        <ul>
+            <li>Undergraduate Students:
+            <ul>
+                <li>Chatbot Project: 30% (5% for each deliverable)</li>
+                <li>Assignments: 70% (10% for each assignment)</li>
+            </ul>
+            </li>
+            <li>Graduate Students:
+            <ul>
+                <li>Chatbot Project: 15% (2.5% for each deliverable)</li>
+                <li>Assignments: 70% (10% for each assignment)</li>
+                <li>Research Highlight: 15% (7.5% for the literature review or custom project, and 7.5% for the video overview)</li>
+            </ul>
+            </li>
+        </ul>
+        <br />
+        <h3>Schedule</h3>
+        Below is a list of course topics, readings, and deadlines, by week.  Links to short, prerecorded videos about content pertaining to a week's topic will be posted approximately one week after the in-class premiere. Links to the accompanying slides can be found in the video description. The version of the schedule here is subject to change.  All deliverables are due by 12:00 p.m. (noon) CST on the specified due date.
+        <br /><br /><br />
+        <div class="tg-wrap"><table class="tg">
+          <tr>
+            <th class="tg-v47y">Week</th>
+            <th class="tg-v47y" style="width:30%">Topic</th>
+            <th class="tg-v47y">Readings</th>
+            <th class="tg-v47y">Deliverables</th>
+            <th class="tg-mcqj">Video Links</th>
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-qtf5">8/24-8/28</td>
+            <td class="tg-qtf5">Introduction and Dialogue Systems and Chatbots</td>
+            <td class="tg-qtf5">Chapter 26</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/zlBM2DsVbFg" target="_blank">Properties of Human-Human Conversation</a>
+                <br /><br />
+                <a href="https://youtu.be/mtKNxmFXnhE" target="_blank">Rule-Based Chatbots</a>
+                <br /><br />
+                <a href="https://youtu.be/zZOzKQPSrDo" target="_blank">Corpus-Based Chatbots</a>
+                <br /><br />
+                <a href="https://youtu.be/qZt3Fp1d_iQ" target="_blank">Frame-Based Dialogue Systems</a>
+                <br /><br />
+                <a href="https://youtu.be/qiiHOVrUBT8" target="_blank">Dialogue Management</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-qtf5">8/31-9/4</td>
+            <td class="tg-qtf5">Text Preprocessing and Edit Distance</td>
+            <td class="tg-qtf5">Chapter 2</td>
+            <td class="tg-73oq">Chatbot: WOZ Study (9/4)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/XzMcYe_P-xM" target="_blank">Regular Expressions</a>
+                <br /><br />
+                <a href="https://youtu.be/CxFHE7s5y48" target="_blank">Finite State Automata</a>
+                <br /><br />
+                <a href="https://youtu.be/QIFIvFiRi2I" target="_blank">Finite State Transducers</a>
+                <br /><br />
+                <a href="https://youtu.be/hd0szXz4XV4" target="_blank">Text Tokenization</a>
+                <br /><br />
+                <a href="https://youtu.be/zNnYgbdtVL0" target="_blank">Edit Distance</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">9/7-9/11</td>
+            <td class="tg-73oq">Hidden Markov Models and Language Modeling with N-Grams</td>
+            <td class="tg-73oq">Appendix A and Chapter 3</td>
+            <td class="tg-73oq">Assignment 1 (9/11)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/Gx7qxa5b49U" target="_blank">Hidden Markov Models</a>
+                <br /><br />
+                <a href="https://youtu.be/shLknMK-ovk" target="_blank">Forward Probabilities</a>
+                <br /><br />
+                <a href="https://youtu.be/Xh3mf9O5SL0" target="_blank">Viterbi Algorithm</a>
+                <br /><br />
+                <a href="https://youtu.be/UKAQF8wHxkE" target="_blank">N-Grams and Maximum Likelihood Estimation</a>
+                <br /><br />
+                <a href="https://youtu.be/1jruWnFhWfU" target="_blank">Evaluating Language Models</a>
+                <br /><br />
+                <a href="https://youtu.be/QGT6XTeA3YQ" target="_blank">N-Gram Smoothing Techniques</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">9/14-9/18</td>
+            <td class="tg-73oq">Naive Bayes and Text Classification</td>
+            <td class="tg-73oq">Chapter 4</td>
+            <td class="tg-73oq">Chatbot: Design (9/18)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/aK9Ih21Fv4A" target="_blank">Introduction to Naive Bayes</a>
+                <br /><br />
+                <a href="https://youtu.be/aMZrfhCwgO8" target="_blank">Training a Naive Bayes Classifier using BOW Features</a>
+                <br /><br />
+                <a href="https://youtu.be/6RpYVHec5PQ" target="_blank">Naive Bayes as a Language Model</a>
+                <br /><br />
+                <a href="https://youtu.be/upEhftU-HtQ" target="_blank">Evaluating Text Classification Models</a>
+                <br /><br />
+                <a href="https://youtu.be/wiVEGu9lYEA" target="_blank">Multi-Label and Multinomial Classification</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">9/21-9/25</td>
+            <td class="tg-73oq">Logistic Regression and Conditional Random Fields</td>
+            <td class="tg-73oq">Chapter 5</td>
+            <td class="tg-73oq">Assignment 2 (9/25)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/tRTaaFhNBxY" target="_blank">Basic Logistic Regression Classifier</a>
+                <br /><br />
+                <a href="https://youtu.be/N3w-BfyTowM" target="_blank">Cross-Entropy Loss</a>
+                <br /><br />
+                <a href="https://youtu.be/uonSAXwvU4g" target="_blank">Gradient Descent</a>
+                <br /><br />
+                <a href="https://youtu.be/qQEQiPAxFxM" target="_blank">Conditional Random Fields</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">9/28-10/2</td>
+            <td class="tg-73oq">Vector Semantics and Embeddings</td>
+            <td class="tg-73oq">Chapter 6</td>
+            <td class="tg-73oq">Chatbot: Dialogue Manager  (10/2)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/j7MKAAIZAqI" target="_blank">Basic Word Representations</a>
+                <br /><br />
+                <a href="https://youtu.be/P5j2IIkzY7s" target="_blank">TF-IDF</a>
+                <br /><br />
+                <a href="https://youtu.be/TWbPIPa8Ff4" target="_blank">Cosine Similarity</a>
+                <br /><br />
+                <a href="https://youtu.be/y-7FKY7IPJU" target="_blank">Word2Vec</a>
+                <br /><br />
+                <a href="https://youtu.be/TNrPdi6Uhu0" target="_blank">Other Word Embedding Types</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">10/5-10/9</td>
+            <td class="tg-73oq">Neural Networks and Neural Language Models</td>
+            <td class="tg-73oq">Chapter 7</td>
+            <td class="tg-73oq">Assignment 3 (10/9)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/QK7GJZ94qPw" target="_blank">Feedforward Neural Network Basics</a>
+                <br /><br />
+                <a href="https://youtu.be/Tz8gWgJZ6vQ" target="_blank">Building Blocks for Neural Networks</a>
+                <br /><br />
+                <a href="https://youtu.be/g8EplwD4wH4" target="_blank">Activation Functions</a>
+                <br /><br />
+                <a href="https://youtu.be/0e06GssKJzU" target="_blank">Combining Computational Units</a>
+                <br /><br />
+                <a href="https://youtu.be/hN739XOzwpg" target="_blank">Neural Language Models</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">10/12-10/16</td>
+            <td class="tg-73oq">Part-of-Speech Tagging and Constituency Grammars</td>
+            <td class="tg-73oq">Chapters 8 and 12</td>
+            <td class="tg-73oq">Chatbot: Natural Language Generation (10/16)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/U4DXyuuWBXY" target="_blank">POS Tagsets</a>
+                <br /><br />
+                <a href="https://youtu.be/23FdSkE87ec" target="_blank">Statistical POS Tagging</a>
+                <br /><br />
+                <a href="https://youtu.be/hDrLEcmRiXM" target="_blank">Context-Free Grammars</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">10/19-10/23</td>
+            <td class="tg-73oq">Rule-Based and Statistical Constituency Parsing</td>
+            <td class="tg-73oq">Chapters 13 and 14</td>
+            <td class="tg-73oq">Assignment 4 (10/23)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/siEJb5EFY6Y" target="_blank">Top-Down and Bottom-Up Parsing</a>
+                <br /><br />
+                <a href="https://youtu.be/17re2zDBuOM" target="_blank">CKY Algorithm</a>
+                <br /><br />
+                <a href="https://youtu.be/1j6hB3O4hAM" target="_blank">Earley Parsing</a>
+                <br /><br />
+                <a href="https://youtu.be/54n6QVVHfXI" target="_blank">Partial Parsing</a>
+                <br /><br />
+                <a href="https://youtu.be/DjJYKmAuAJ0" target="_blank">Probabilistic CKY Algorithm</a>
+                <br /><br />
+                <a href="https://youtu.be/ubcsi4djGig" target="_blank">Probabilistic Lexicalized CFGs</a>
+                <br /><br />
+                <a href="https://youtu.be/iCy9nGTYNdo" target="_blank">Probabilistic CCG Parsing</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+              <td class="tg-73oq">10/26-10/30</td>
+              <td class="tg-73oq">Dependency Parsing and Logical Representations of Sentence Meaning</td>
+              <td class="tg-73oq">Chapters 15 and 16</td>
+              <td class="tg-73oq">Assignment 5  (10/30)</td>
+              <td class="tg-73oq">
+                  <a href="https://youtu.be/J0tS0CCp40M" target="_blank">Dependency Relations</a>
+                  <br /><br />
+                  <a href="https://youtu.be/oLHnqGmQtI4" target="_blank">Transition-Based Dependency Parsing</a>
+                  <br /><br />
+                  <a href="https://youtu.be/dOCRzahEL84" target="_blank">Graph-Based Dependency Parsing</a>
+                  <br /><br />
+                  <a href="https://youtu.be/yafSmVPfqCc" target="_blank">Components of Representational Systems</a>
+                  <br /><br />
+                  <a href="https://youtu.be/8xJgmpGK2CQ" target="_blank">Model-Theoretic Semantics</a>
+                  <br /><br />
+                  <a href="https://youtu.be/Nfb-ZCePRzg" target="_blank">First-Order Logic</a>
+                  <br /><br />
+                  <a href="https://youtu.be/has1UcGuWeo" target="_blank">Description Logics</a>
+              </td> <!-- Change class to tg-73oq for better link formatting. -->
+            </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">11/2-11/6</td>
+            <td class="tg-73oq">Word Senses and WordNet and Semantic Role Labeling</td>
+            <td class="tg-73oq">Chapters 19 and 20</td>
+            <td class="tg-73oq">Chatbot: Natural Language Understanding (11/6)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/2IHA8QgKwbw" target="_blank">Overview of WordNet</a>
+                <br /><br />
+                <a href="https://youtu.be/wxZwML6Gs3o" target="_blank">Word Sense Disambiguation</a>
+                <br /><br />
+                <a href="https://youtu.be/tRaOIKqMKR8" target="_blank">Overview of FrameNet</a>
+                <br /><br />
+                <a href="https://youtu.be/jb55DnSV1rk" target="_blank">Semantic Role Labeling</a>
+                <br /><br />
+                <a href="https://youtu.be/At2__X98NGY" target="_blank">Semantic Roles</a>
+                <br /><br />
+                <a href="https://youtu.be/ZvRnLG1lIvU" target="_blank">Selectional Restrictions</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">11/9-11/13</td>
+            <td class="tg-73oq">Lexicons for Sentiment, Affect, and Connotation</td>
+            <td class="tg-73oq">Chapter 21</td>
+            <td class="tg-73oq">Assignment 6   (11/13)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/dg_og8MrMXM" target="_blank">Creating Sentiment and Affect Lexicons</a>
+                <br /><br />
+                <a href="https://youtu.be/MXHAKnL3Zdo" target="_blank">Supervised Learning of Word Sentiment</a>
+                <br /><br />
+                <a href="https://youtu.be/TAB1xKHvseE" target="_blank">Affect Recognition</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">11/16-11/20</td>
+            <td class="tg-73oq">Coreference Resolution</td>
+            <td class="tg-73oq">Chapter 22</td>
+            <td class="tg-73oq">Chabot: Evaluation (11/20)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/inK8XSKYy_o" target="_blank">Overview of Coreference Resolution</a>
+                <br /><br />
+                <a href="https://youtu.be/fhIoLnrFBlw" target="_blank">Coreference Tasks</a>
+                <br /><br />
+                <a href="https://youtu.be/69w4H4XoXYM" target="_blank">The Mention-Pair Architecture</a>
+                <br /><br />
+                <a href="https://youtu.be/QGMeDwNRF78" target="_blank">Neural Coreference Resolution Models</a>
+                <br /><br />
+                <a href="https://youtu.be/3zUXkSJWbR4" target="_blank">Winograd Schema Problems</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">11/23-11/27</td>
+            <td class="tg-73oq">Discourse Coherence</td>
+            <td class="tg-73oq">Chapter 23</td>
+            <td class="tg-73oq">Assignment 7 (11/25)</td>
+            <td class="tg-73oq">
+                <a href="https://youtu.be/cS4qTRNS6Z0" target="_blank">Rhetorical Structure Theory</a>
+                <br /><br />
+                <a href="https://youtu.be/fhAQpty7e4g" target="_blank">Penn Discourse Treebank</a>
+                <br /><br />
+                <a href="https://youtu.be/tmAK6EN9toE" target="_blank">Discourse Parsing</a>
+                <br /><br />
+                <a href="https://youtu.be/93Iwq_SDHXU" target="_blank">Centering Theory</a>
+                <br /><br />
+                <a href="https://youtu.be/qmrh09ej4y8" target="_blank">Entity Grid Model</a>
+                <br /><br />
+                <a href="https://youtu.be/urAq-zEPcXY" target="_blank">Global Coherence</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">11/30-12/4</td>
+            <td class="tg-73oq">Wrap-Up and Research Highlight Videos</td>
+            <td class="tg-wp8o">&mdash;</td>
+            <td class="tg-73oq">Research Highlights (11/30)</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">12/7-12/11</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-wp8o">&mdash;</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-obcv">&mdash;</td>
+          </tr>
+        </table></div>
+        <br /><br />
+        <h3>Final Notes</h3>
+        This website is provided partially for student convenience, partially for my own record-keeping purposes, and partially for the benefit of others who are not able to enroll in the course but who may find the content interesting for one reason or another.  It is not a substitute for the course pages on Blackboard and Gradescope, or the course discussion board on Piazza!  Please refer to those sources for copies of the full syllabus, assignments, grading rubrics, submission links, and other useful information.  If you are not enrolled in the course but would like to request access to those materials, please send me an email introducing yourself and explaining why you would like to have access to them.
+        <br /><br />
+        Happy studying!
+        <br /><br />
+    </div>
+
+</div>

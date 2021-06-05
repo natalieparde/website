@@ -1,269 +1,261 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>CS 521: Statistical Natural Language Processing</title>
-        <link href="https://fonts.googleapis.com/css?family=Convergence|Lato" rel="stylesheet">
-            <link href="https://fonts.googleapis.com/css?family=Homemade+Apple" rel="stylesheet">
-                <link rel="stylesheet" type="text/css" href="../style.css">
-                    <meta charset="UTF-8">
-                        <meta name="description" content="Natalie Parde's personal website">
-                            <meta name="keywords" content="Natalie, Parde, Computer, Science, Statistical, Natural, Language, Processing, Cognitive, Science, Artificial, Intelligence, UIC, CS, 521">
-                                <meta name="author" content="Natalie Parde">
-                                    </head>
-    <body>
-        <div "header">
-            <img id="banner" src="../letters_banner.jpg" alt="Miscellaneous Letters" />
-            <ul id="navigation">
-                <li id="horizontallist"><a href="../index.html">Home</a></li>
-                <li id="horizontallist"><a href="../research.html">Research</a></li>
-                <li id="horizontallist"><a href="../team.html">Team</a></li>
-                <li id="horizontallist"><a href="../publications.html">Publications</a></li>
-                <li id="horizontallist" class="active"><a href="../teaching.html">Teaching</a></li>
-                <li id="horizontallist"><a href="../cv.pdf">CV</a></li>
-            </ul>
-        </div>
-        <div id="publications">
-            <h1 style="text-align:center;">CS 521: Statistical Natural Language Processing</h1>
-            <h2 style="text-align:center;">Spring 2021</h2>
-            <h3>Contact Information</h3>
-            <table>
-                <tr>
-                    <td><b>Professor:</b></td>
-                    <td></td>
-                    <td>Natalie Parde (<a href="mailto:parde@uic.edu">parde@uic.edu</a>)</td>
-                </tr>
-                <tr>
-                    <td><b>Office Hours:</b></td>
-                    <td></td>
-                    <td>Tuesday 9:30 - 10:30 a.m. / Thursday 3:00 - 4:00 p.m.</td>
-                </tr>
-                <tr><td>&nbsp;</td></tr>
-                <tr>
-                    <td><b>Piazza:</b></td>
-                    <td></td>
-                    <td><a href="https://piazza.com/uic/spring2021/2021springcs52143232" target="_blank">piazza.com/uic/spring2021/2021springcs52143232</a></td>
-                </tr>
-            </table>
-            <br />
-            <h3>What is this class about?</h3>
-            Natural language processing (NLP) is increasingly driven by statistical and neural methods.  These techniques are leveraged in many everyday applications, including intelligent virtual assistants (e.g., Siri or Alexa), machine translation systems (e.g., Google Translate), and language models (such as those used for predictive text).  This class will introduce advanced topics in statistical and neural NLP, and provide an overview of active research in those topic areas, through a combination of readings, paper presentations and critiques, and a semester-long project.  Topics covered will include data collection, common neural architectures for NLP, machine translation, question answering, automated speech recognition, natural language generation, bias in NLP, and NLP applications, among others.
-            <br /><br />
-            <h3>Textbooks</h3>
-            Readings for the first part of the semester will be drawn from the following source:
-            <br />- <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Daniel Jurafsky and James H Martin. <i>Speech and Language Processing (3rd Edition)</i>. Draft, 2020.</a>
-            <br /><br />
-            Note that this resource is a draft of the upcoming third edition of <i>Speech and Language Processing</i>.  Chapter order and content is subject to change throughout the semester (I'll try to update the course website whenever I notice this occurring, but feel free to ping me if you think something seems out of date).  Readings for the second part of the semester will be drawn primarily from journals and conference proceedings.  Some suggested papers for each topic in the second part of the semester are provided in the course syllabus.  You are welcome to present a paper that is not in the list of suggestions, as long as I approve it.
-            <br /><br />
-            <h3>Assignments</h3>
-            This course acts as a middle ground between UIC's introductory, lecture-based NLP course (CS 421) and the advanced, seminar-style NLP courses (CS 532) offered by the department.  The coursework will be closer to what you would expect to find in a seminar-style course, but the general format of the class will contain elements of both.  For the first portion of the semester, lectures will be given about different statistical and neural techniques that are common in natural language processing, both at a fundamental level (e.g., deep learning architectures) and for specific applications (e.g., question answering).  For the second portion of the semester, students will present and critique research from recent NLP papers.  Some further details about the work you will be expected to complete for this course are provided below:
-            <ul>
-                <li><b>Paper Critiques:</b> Most "research" weeks, you will submit a short (~ one page) critique of one of the papers being presented and discussed.  You will also do this twice in the first part of the semester, critiquing any paper of your choice that is relevant to one of the lecture topics covered thus far. The critique should include a brief summary of the paper, highlights of aspects of the paper that are particularly good or should be improved, an analysis of the soundness of the methodology and evaluation, and an explanation of whether or not the conclusions drawn by the authors are justified.  I've posted several example paper critiques on Blackboard to provide some guidance as to what a good paper critique might look like. <b>You will need to submit a total of seven paper critiques</b> (two in the first part of the semester, and five in the second part of the semester).</li>
-                <li><b>Paper Presentation Video:</b> You will create a video overview and critical analysis of one paper in the second part of the semester.  The video should summarize the work, present the paper's strengths, and (diplomatically!) present its weaknesses.  I've posted an example presentation slide deck on Blackboard to provide some guidance as to what this might look like; however, feel free to creatively incorporate the required material however you prefer.  Paper presentation videos should be 15 minutes long.</li>
-                <li><b>Paper Discussion:</b> You will contribute to intriguing discussions of the papers presented during research weeks, either synchronously (during group discussion-style office hours) or asynchronously (by posting a stimulating question or comment on the paper's dedicated Piazza post).  <b>You will need to contribute to synchronous or asynchronous discussion for at least five papers</b> (spread across at least five separate "research" weeks).  Feel free to contribute more beyond that when papers interest you!</li>
-                <li><b>Project:</b> A central component of this course is the semester-long project.  You may complete your project individually or in pairs (if completing the project in a pair, the workload should scale accordingly).  You'll be afforded considerable flexibility in selecting your project topics&mdash;ideally, if you're working on a thesis or dissertation, you'll be able to incorporate the work resulting from this course into your research.  The project will comprise four different deliverables:</li>
-                    <ul>
-                        <li><b>Proposal Video:</b> You will create a short (5 minutes) video detailing your plans and defining your research objectives, due at the end of the first part of the semester.</li>
-                        <li><b>Project Source:</b> You will submit the source code (either directly or through a link to the repository) used for your project, along with well-documented instructions for replicating the work.</li>
-                        <li><b>Project Video:</b> You will create a 10-15 minute video presenting your methodology, evaluation, and key findings to the class.  The format of this video should be similar to what you would see in a conference or workshop presentation. Feel free to browse the ACL Anthology for this year's ACL presentation videos as inspiration.</li>
-                        <li><b>Project Report:</b> You will write a conference/journal-style paper about your project, including a literature review, methodology, evaluation, and conclusions.  The formatting can vary, depending on which venue you're writing it for ...you can view this as an easy way to have a paper ready to submit by the end of the semester, complete with feedback from a faculty member!  Project reports should range from 2500-4500 words, not including references.</li>
-                    </ul>
-            </ul>
-            
-            Grading rubrics will be posted on Blackboard.  Final course grades will be determined according to the following breakdown:
-            <ul>
-                <li>Research Discussion:</li>
-                    <ul>
-                        <li>Paper Presentation Video: 15%</li>
-                        <li>Paper Discussion: 10% (2% per week)</li>
-                    </ul>
-                <li>Paper Critiques: 35% (5% per paper critique; two in lecture weeks and five in research weeks)</li>
-                <li>Project:</li>
+---
+layout: default
+overtitle:
+title: Natalie Parde - Teaching/CS 521 (Spring 2021)
+description: Assistant Professor, Department of Computer Science | Co-Director, UIC Natural Language Processing Laboratory
+featured_image: /images/social.jpg
+---
+
+<div class="page-home">
+
+    {% if site.data.settings.hero_settings.background_image %}
+    <img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">
+    {% endif %}
+
+    <div class="wrap">
+        <br /><br />
+        <h1 style="text-align:center;">CS 521: Statistical Natural Language Processing</h1>
+        <h2 style="text-align:center;">Spring 2021</h2>
+        <h3>Contact Information</h3>
+        <table>
+            <tr>
+                <td><b>Professor:</b></td>
+                <td></td>
+                <td>Natalie Parde (<a href="mailto:parde@uic.edu">parde@uic.edu</a>)</td>
+            </tr>
+            <tr>
+                <td><b>Office Hours:</b></td>
+                <td></td>
+                <td>Tuesday 9:30 - 10:30 a.m. / Thursday 3:00 - 4:00 p.m.</td>
+            </tr>
+            <tr><td>&nbsp;</td></tr>
+            <tr>
+                <td><b>Piazza:</b></td>
+                <td></td>
+                <td><a href="https://piazza.com/uic/spring2021/2021springcs52143232" target="_blank">piazza.com/uic/spring2021/2021springcs52143232</a></td>
+            </tr>
+        </table>
+        <br />
+        <h3>What is this class about?</h3>
+        Natural language processing (NLP) is increasingly driven by statistical and neural methods.  These techniques are leveraged in many everyday applications, including intelligent virtual assistants (e.g., Siri or Alexa), machine translation systems (e.g., Google Translate), and language models (such as those used for predictive text).  This class will introduce advanced topics in statistical and neural NLP, and provide an overview of active research in those topic areas, through a combination of readings, paper presentations and critiques, and a semester-long project.  Topics covered will include data collection, common neural architectures for NLP, machine translation, question answering, automated speech recognition, natural language generation, bias in NLP, and NLP applications, among others.
+        <br /><br />
+        <h3>Textbooks</h3>
+        Readings for the first part of the semester will be drawn from the following source:
+        <br />- <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Daniel Jurafsky and James H Martin. <i>Speech and Language Processing (3rd Edition)</i>. Draft, 2020.</a>
+        <br /><br />
+        Note that this resource is a draft of the upcoming third edition of <i>Speech and Language Processing</i>.  Chapter order and content is subject to change throughout the semester (I'll try to update the course website whenever I notice this occurring, but feel free to ping me if you think something seems out of date).  Readings for the second part of the semester will be drawn primarily from journals and conference proceedings.  Some suggested papers for each topic in the second part of the semester are provided in the course syllabus.  You are welcome to present a paper that is not in the list of suggestions, as long as I approve it.
+        <br /><br />
+        <h3>Assignments</h3>
+        This course acts as a middle ground between UIC's introductory, lecture-based NLP course (CS 421) and the advanced, seminar-style NLP courses (CS 532) offered by the department.  The coursework will be closer to what you would expect to find in a seminar-style course, but the general format of the class will contain elements of both.  For the first portion of the semester, lectures will be given about different statistical and neural techniques that are common in natural language processing, both at a fundamental level (e.g., deep learning architectures) and for specific applications (e.g., question answering).  For the second portion of the semester, students will present and critique research from recent NLP papers.  Some further details about the work you will be expected to complete for this course are provided below:
+        <ul>
+            <li><b>Paper Critiques:</b> Most "research" weeks, you will submit a short (~ one page) critique of one of the papers being presented and discussed.  You will also do this twice in the first part of the semester, critiquing any paper of your choice that is relevant to one of the lecture topics covered thus far. The critique should include a brief summary of the paper, highlights of aspects of the paper that are particularly good or should be improved, an analysis of the soundness of the methodology and evaluation, and an explanation of whether or not the conclusions drawn by the authors are justified.  I've posted several example paper critiques on Blackboard to provide some guidance as to what a good paper critique might look like. <b>You will need to submit a total of seven paper critiques</b> (two in the first part of the semester, and five in the second part of the semester).</li>
+            <li><b>Paper Presentation Video:</b> You will create a video overview and critical analysis of one paper in the second part of the semester.  The video should summarize the work, present the paper's strengths, and (diplomatically!) present its weaknesses.  I've posted an example presentation slide deck on Blackboard to provide some guidance as to what this might look like; however, feel free to creatively incorporate the required material however you prefer.  Paper presentation videos should be 15 minutes long.</li>
+            <li><b>Paper Discussion:</b> You will contribute to intriguing discussions of the papers presented during research weeks, either synchronously (during group discussion-style office hours) or asynchronously (by posting a stimulating question or comment on the paper's dedicated Piazza post).  <b>You will need to contribute to synchronous or asynchronous discussion for at least five papers</b> (spread across at least five separate "research" weeks).  Feel free to contribute more beyond that when papers interest you!</li>
+            <li><b>Project:</b> A central component of this course is the semester-long project.  You may complete your project individually or in pairs (if completing the project in a pair, the workload should scale accordingly).  You'll be afforded considerable flexibility in selecting your project topics&mdash;ideally, if you're working on a thesis or dissertation, you'll be able to incorporate the work resulting from this course into your research.  The project will comprise four different deliverables:</li>
                 <ul>
-                    <li>Proposal Video: 10%</li>
-                    <li>Project Source: 5%</li>
-                    <li>Project Video: 10%</li>
-                    <li>Project Report: 15%</li>
+                    <li><b>Proposal Video:</b> You will create a short (5 minutes) video detailing your plans and defining your research objectives, due at the end of the first part of the semester.</li>
+                    <li><b>Project Source:</b> You will submit the source code (either directly or through a link to the repository) used for your project, along with well-documented instructions for replicating the work.</li>
+                    <li><b>Project Video:</b> You will create a 10-15 minute video presenting your methodology, evaluation, and key findings to the class.  The format of this video should be similar to what you would see in a conference or workshop presentation. Feel free to browse the ACL Anthology for this year's ACL presentation videos as inspiration.</li>
+                    <li><b>Project Report:</b> You will write a conference/journal-style paper about your project, including a literature review, methodology, evaluation, and conclusions.  The formatting can vary, depending on which venue you're writing it for ...you can view this as an easy way to have a paper ready to submit by the end of the semester, complete with feedback from a faculty member!  Project reports should range from 2500-4500 words, not including references.</li>
                 </ul>
+        </ul>
+        <br />
+        Grading rubrics will be posted on Blackboard.  Final course grades will be determined according to the following breakdown:
+        <ul>
+            <li>Research Discussion:</li>
+                <ul>
+                    <li>Paper Presentation Video: 15%</li>
+                    <li>Paper Discussion: 10% (2% per week)</li>
+                </ul>
+            <li>Paper Critiques: 35% (5% per paper critique; two in lecture weeks and five in research weeks)</li>
+            <li>Project:</li>
+            <ul>
+                <li>Proposal Video: 10%</li>
+                <li>Project Source: 5%</li>
+                <li>Project Video: 10%</li>
+                <li>Project Report: 15%</li>
             </ul>
-            <h3>Schedule</h3>
-            The most recent version of the course schedule is available below.  This schedule is subject to change ...check back regularly for updates!  <b>All deadlines are at 12 p.m. (noon) unless otherwise stated.</b>
-            <br /><br />
-            <div class="tg-wrap"><table class="tg">
-              <tr>
-                <th class="tg-v47y">Week</th>
-                <th class="tg-v47y" style="width:30%">Topic</th>
-                <th class="tg-v47y">Readings</th>
-                <th class="tg-v47y">Deliverables</th>
-                <th class="tg-mcqj">Video Links</th>
-              </tr>
-              <tr>
-                <td class="tg-qtf5">1/11 - 1/15</td>
-                <td class="tg-qtf5">Introduction and Data Collection</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-obcv">&mdash;</td></td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-qtf5">1/18 - 1/22</td>
-                <td class="tg-qtf5">Feedforward and Convolutional Neural Networks</td>
-                <td class="tg-qtf5">Chapter 7</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">1/25 - 1/29</td>
-                <td class="tg-73oq">Deep Learning Architectures for Sequence Processing</td>
-                <td class="tg-73oq">Chapter 9</td>
-                <td class="tg-73oq">1/25: Paper Critique (Topic from 1/11 - 1/29)</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">2/1 - 2/5</td>
-                <td class="tg-73oq">Machine Translation</td>
-                <td class="tg-73oq">Chapter 11</td>
-                <td class="tg-73oq">2/1: Paper Selection Deadline</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">2/8 - 2/12</td>
-                <td class="tg-73oq">Question Answering</td>
-                <td class="tg-73oq">Chapter 23</td>
-                <td class="tg-73oq">2/8: Paper Critique (Topic from 1/11 - 2/12)</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">2/15 - 2/19</td>
-                <td class="tg-73oq">Automatic Speech Recognition and Text-to-Speech</td>
-                <td class="tg-73oq">Chapter 26</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">2/22 - 2/26</td>
-                <td class="tg-73oq">Project Proposals</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-73oq">2/22: Project Proposal</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">3/1 - 3/5</td>
-                <td class="tg-73oq">Contextual Word Embeddings</td>
-                <td class="tg-73oq">
-                    <a href="https://www.aclweb.org/anthology/N18-1202.pdf" target="_blank">Deep Contextualized Word Representations</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/P18-1031.pdf" target="_blank">Universal Language Model Fine-Tuning for Text Classification</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/N19-1423.pdf" target="_blank">BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/2020.acl-main.745.pdf" target="_blank">TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data</a><br /><br />
-                    <a href="https://openreview.net/pdf?id=r1xMH1BtvB" target="_blank">ELECTRA: Pre-Training Text Encoders as Discriminators Rather Than Generators</a>
-                </td> <!-- Change class to tg-73oq for better link formatting. -->
-                <td class="tg-73oq">3/1: Paper Critique</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">3/8 - 3/12</td>
-                <td class="tg-73oq">Sustainable NLP</td>
-                <td class="tg-73oq">
-                    <a href="https://www.aclweb.org/anthology/P19-1355.pdf" target="_blank">Energy and Policy Considerations for Deep Learning in NLP</a><br /><br />
-                    <a href="https://arxiv.org/pdf/1910.09700.pdf" target="_blank">Quantifying the Carbon Emissions of Machine Learning</a><br /><br />
-                    <a href="https://cacm.acm.org/magazines/2020/12/248800-green-ai/fulltext" target="_blank">Green AI</a><br /><br />
-                    <a href="https://www.emc2-ai.org/assets/docs/neurips-19/emc2-neurips19-paper-33.pdf" target="_blank">DistilBERT, a Distilled Version of BERT: Smaller, Faster, Cheaper and Lighter</a>
-                </td>
-                <td class="tg-73oq">3/8: Paper Critique</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">3/15 - 3/19</td>
-                <td class="tg-73oq">Low-Resource Languages</td>
-                <td class="tg-73oq">
-                    <a href="https://www.aclweb.org/anthology/2020.acl-main.560.pdf" target="_blank">The State and Fate of Linguistic Diversity and Inclusion in the NLP World</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/D18-1366.pdf" target="_blank">Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations</a><br /><br />
-                    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/6362" target="_blank">Attention-Informed Mixed-Language Training for Zero-Shot Cross-Lingual Task-Oriented Dialogue Systems</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/2020.acl-main.747.pdf" target="_blank">Unsupervised Cross-Lingual Representation Learning at Scale</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/2020.emnlp-main.7.pdf" target="_blank">Simulated Multiple Reference Training Improves Low-Resource Machine Translation</a>
-                </td>
-                <td class="tg-73oq">3/15: Paper Critique</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">3/22 - 3/26</td>
-                <td class="tg-73oq">Spring Break</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">3/29 - 4/2</td>
-                <td class="tg-73oq">Natural Language Generation</td>
-                <td class="tg-73oq">
-                    <a href="https://www.aclweb.org/anthology/D18-1356.pdf" target="_blank">Learning Neural Templates for Text Generation</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/N19-1172.pdf" target="_blank">Pun Generation with Surprise</a><br /><br />
-                    <a href="http://proceedings.mlr.press/v97/welleck19a/welleck19a.pdf" target="_blank">Non-Monotonic Sequential Text Generation</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/P19-1620.pdf" target="_blank">Synthetic QA Corpora Generation with Roundtrip Consistency</a><br /><br />
-                    <a href="https://www.sciencedirect.com/science/article/pii/S0885230819300919" target="_blank">Evaluating the State-of-the-Art of End-to-End Natural Language Generation: The E2E NLG Challenge</a>
-                </td>
-                <td class="tg-73oq">3/29: Paper Critique</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">4/5 - 4/9</td>
-                <td class="tg-73oq">Multimodal NLP</td>
-                <td class="tg-73oq">
-                    <a href="https://openreview.net/pdf?id=rJgMlhRctm" target="_blank">The Neurosymbolic Concept Learner: Interpreting Scenes, Words, and Sentences from Natural Supervision</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/P19-1655.pdf" target="_blank">Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/P19-1180.pdf" target="_blank">Visually Grounded Neural Syntax Acquisition</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/D19-1514.pdf" target="_blank">LXMERT: Learning Cross-Modality Encoder Representations from Transformers</a><br /><br />
-                    <a href="https://openreview.net/pdf?id=wpSWuz_hyqA" target="_blank">Grounded Language Learning Fast and Slow</a>
-                </td>
-                <td class="tg-73oq">4/5: Paper Critique</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-             <tr>
-                <td class="tg-73oq">4/12 - 4/16</td>
-                <td class="tg-73oq">Bias in NLP</td>
-                <td class="tg-73oq">
-                    <a href="https://dl.acm.org/doi/10.5555/3157382.3157584" target="_blank">Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/N19-1062.pdf" target="_blank">Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/D19-1578.pdf" target="_blank">Perturbation Sensitivity Analysis to Detect Unintended Model Biases</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/2020.acl-main.487.pdf" target="_blank">Social Biases in NLP Models as Barriers for Persons with Disabilities</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/2020.acl-main.485.pdf" target="_blank">Language (Technology) is Power: A Critical Survey of "Bias" in NLP</a>
-                </td>
-                <td class="tg-73oq">4/12: Paper Critique</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">4/19 - 4/23</td>
-                <td class="tg-73oq">NLP Applications</td>
-                <td class="tg-73oq">
-                    <a href="https://www.aclweb.org/anthology/N19-1146.pdf" target="_blank">Detecting Cognitive Impairments by Agreeing on Interpretations of Linguistic Features</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/P19-1089.pdf" target="_blank">Finding Your Voice: The Linguistic Development of Mental Health Counselors</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/2020.tacl-1.16.pdf" target="_blank">Decoding Brain Activity Associated with Literal and Metaphoric Sentence Comprehension Using Distributional Semantic Models</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/2020.acl-main.284.pdf" target="_blank">Improving Segmentation for Technical Support Problems</a><br /><br />
-                    <a href="https://www.aclweb.org/anthology/2020.acl-main.763.pdf" target="_blank">Multi-Label and Multilingual News Framing Analysis</a>
-                </td>
-                <td class="tg-73oq">4/19: Paper Critique</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">4/26 - 4/30</td>
-                <td class="tg-73oq">Project Videos</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-73oq">4/26: Project Video and Source</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-              <tr>
-                <td class="tg-73oq">5/3 - 5/7</td>
-                <td class="tg-73oq">Finals Week (No Class)</td>
-                <td class="tg-obcv">&mdash;</td>
-                <td class="tg-73oq">5/3: Project Report</td>
-                <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
-              </tr>
-            </table></div>
-            <br />
-            <h3>Final Notes</h3>
-            This website is provided partially for student convenience, partially for my own record-keeping purposes, and partially for the benefit of others who are not able to enroll in the course but who may find the content interesting for one reason or another.  It is not a substitute for the course page on Blackboard or the course discussion board on Piazza!  Please refer to those sources for copies of the full syllabus, assignments, grading rubrics, submission links, and other useful information.  If you are not enrolled in the course but would like to request access to those materials, please send me an email introducing yourself and explaining why you would like to have access to them.
-            <br /><br />
-            Happy studying!
-            <br /><br />
-        </div>
-    </body>
-</html>
+        </ul>
+        <br />
+        <h3>Schedule</h3>
+        The most recent version of the course schedule is available below.  This schedule is subject to change ...check back regularly for updates!  <b>All deadlines are at 12 p.m. (noon) unless otherwise stated.</b>
+        <br /><br /><br />
+        <div class="tg-wrap"><table class="tg">
+          <tr>
+            <th class="tg-v47y">Week</th>
+            <th class="tg-v47y" style="width:30%">Topic</th>
+            <th class="tg-v47y">Readings</th>
+            <th class="tg-v47y">Deliverables</th>
+            <th class="tg-mcqj">Video Links</th>
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-qtf5">1/11 - 1/15</td>
+            <td class="tg-qtf5">Introduction and Data Collection</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-obcv">&mdash;</td></td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-qtf5">1/18 - 1/22</td>
+            <td class="tg-qtf5">Feedforward and Convolutional Neural Networks</td>
+            <td class="tg-qtf5">Chapter 7</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">1/25 - 1/29</td>
+            <td class="tg-73oq">Deep Learning Architectures for Sequence Processing</td>
+            <td class="tg-73oq">Chapter 9</td>
+            <td class="tg-73oq">1/25: Paper Critique (Topic from 1/11 - 1/29)</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">2/1 - 2/5</td>
+            <td class="tg-73oq">Machine Translation</td>
+            <td class="tg-73oq">Chapter 11</td>
+            <td class="tg-73oq">2/1: Paper Selection Deadline</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">2/8 - 2/12</td>
+            <td class="tg-73oq">Question Answering</td>
+            <td class="tg-73oq">Chapter 23</td>
+            <td class="tg-73oq">2/8: Paper Critique (Topic from 1/11 - 2/12)</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">2/15 - 2/19</td>
+            <td class="tg-73oq">Automatic Speech Recognition and Text-to-Speech</td>
+            <td class="tg-73oq">Chapter 26</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">2/22 - 2/26</td>
+            <td class="tg-73oq">Project Proposals</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-73oq">2/22: Project Proposal</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">3/1 - 3/5</td>
+            <td class="tg-73oq">Contextual Word Embeddings</td>
+            <td class="tg-73oq">
+                <a href="https://www.aclweb.org/anthology/N18-1202.pdf" target="_blank">Deep Contextualized Word Representations</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/P18-1031.pdf" target="_blank">Universal Language Model Fine-Tuning for Text Classification</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/N19-1423.pdf" target="_blank">BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/2020.acl-main.745.pdf" target="_blank">TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data</a><br /><br />
+                <a href="https://openreview.net/pdf?id=r1xMH1BtvB" target="_blank">ELECTRA: Pre-Training Text Encoders as Discriminators Rather Than Generators</a>
+            </td> <!-- Change class to tg-73oq for better link formatting. -->
+            <td class="tg-73oq">3/1: Paper Critique</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">3/8 - 3/12</td>
+            <td class="tg-73oq">Sustainable NLP</td>
+            <td class="tg-73oq">
+                <a href="https://www.aclweb.org/anthology/P19-1355.pdf" target="_blank">Energy and Policy Considerations for Deep Learning in NLP</a><br /><br />
+                <a href="https://arxiv.org/pdf/1910.09700.pdf" target="_blank">Quantifying the Carbon Emissions of Machine Learning</a><br /><br />
+                <a href="https://cacm.acm.org/magazines/2020/12/248800-green-ai/fulltext" target="_blank">Green AI</a><br /><br />
+                <a href="https://www.emc2-ai.org/assets/docs/neurips-19/emc2-neurips19-paper-33.pdf" target="_blank">DistilBERT, a Distilled Version of BERT: Smaller, Faster, Cheaper and Lighter</a>
+            </td>
+            <td class="tg-73oq">3/8: Paper Critique</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">3/15 - 3/19</td>
+            <td class="tg-73oq">Low-Resource Languages</td>
+            <td class="tg-73oq">
+                <a href="https://www.aclweb.org/anthology/2020.acl-main.560.pdf" target="_blank">The State and Fate of Linguistic Diversity and Inclusion in the NLP World</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/D18-1366.pdf" target="_blank">Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations</a><br /><br />
+                <a href="https://ojs.aaai.org/index.php/AAAI/article/view/6362" target="_blank">Attention-Informed Mixed-Language Training for Zero-Shot Cross-Lingual Task-Oriented Dialogue Systems</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/2020.acl-main.747.pdf" target="_blank">Unsupervised Cross-Lingual Representation Learning at Scale</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/2020.emnlp-main.7.pdf" target="_blank">Simulated Multiple Reference Training Improves Low-Resource Machine Translation</a>
+            </td>
+            <td class="tg-73oq">3/15: Paper Critique</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">3/22 - 3/26</td>
+            <td class="tg-73oq">Spring Break</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">3/29 - 4/2</td>
+            <td class="tg-73oq">Natural Language Generation</td>
+            <td class="tg-73oq">
+                <a href="https://www.aclweb.org/anthology/D18-1356.pdf" target="_blank">Learning Neural Templates for Text Generation</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/N19-1172.pdf" target="_blank">Pun Generation with Surprise</a><br /><br />
+                <a href="http://proceedings.mlr.press/v97/welleck19a/welleck19a.pdf" target="_blank">Non-Monotonic Sequential Text Generation</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/P19-1620.pdf" target="_blank">Synthetic QA Corpora Generation with Roundtrip Consistency</a><br /><br />
+                <a href="https://www.sciencedirect.com/science/article/pii/S0885230819300919" target="_blank">Evaluating the State-of-the-Art of End-to-End Natural Language Generation: The E2E NLG Challenge</a>
+            </td>
+            <td class="tg-73oq">3/29: Paper Critique</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">4/5 - 4/9</td>
+            <td class="tg-73oq">Multimodal NLP</td>
+            <td class="tg-73oq">
+                <a href="https://openreview.net/pdf?id=rJgMlhRctm" target="_blank">The Neurosymbolic Concept Learner: Interpreting Scenes, Words, and Sentences from Natural Supervision</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/P19-1655.pdf" target="_blank">Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/P19-1180.pdf" target="_blank">Visually Grounded Neural Syntax Acquisition</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/D19-1514.pdf" target="_blank">LXMERT: Learning Cross-Modality Encoder Representations from Transformers</a><br /><br />
+                <a href="https://openreview.net/pdf?id=wpSWuz_hyqA" target="_blank">Grounded Language Learning Fast and Slow</a>
+            </td>
+            <td class="tg-73oq">4/5: Paper Critique</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+         <tr>
+            <td class="tg-73oq">4/12 - 4/16</td>
+            <td class="tg-73oq">Bias in NLP</td>
+            <td class="tg-73oq">
+                <a href="https://dl.acm.org/doi/10.5555/3157382.3157584" target="_blank">Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/N19-1062.pdf" target="_blank">Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/D19-1578.pdf" target="_blank">Perturbation Sensitivity Analysis to Detect Unintended Model Biases</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/2020.acl-main.487.pdf" target="_blank">Social Biases in NLP Models as Barriers for Persons with Disabilities</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/2020.acl-main.485.pdf" target="_blank">Language (Technology) is Power: A Critical Survey of "Bias" in NLP</a>
+            </td>
+            <td class="tg-73oq">4/12: Paper Critique</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">4/19 - 4/23</td>
+            <td class="tg-73oq">NLP Applications</td>
+            <td class="tg-73oq">
+                <a href="https://www.aclweb.org/anthology/N19-1146.pdf" target="_blank">Detecting Cognitive Impairments by Agreeing on Interpretations of Linguistic Features</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/P19-1089.pdf" target="_blank">Finding Your Voice: The Linguistic Development of Mental Health Counselors</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/2020.tacl-1.16.pdf" target="_blank">Decoding Brain Activity Associated with Literal and Metaphoric Sentence Comprehension Using Distributional Semantic Models</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/2020.acl-main.284.pdf" target="_blank">Improving Segmentation for Technical Support Problems</a><br /><br />
+                <a href="https://www.aclweb.org/anthology/2020.acl-main.763.pdf" target="_blank">Multi-Label and Multilingual News Framing Analysis</a>
+            </td>
+            <td class="tg-73oq">4/19: Paper Critique</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr>
+            <td class="tg-73oq">4/26 - 4/30</td>
+            <td class="tg-73oq">Project Videos</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-73oq">4/26: Project Video and Source</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+          <tr style="background-color: #f4f5f6;">
+            <td class="tg-73oq">5/3 - 5/7</td>
+            <td class="tg-73oq">Finals Week (No Class)</td>
+            <td class="tg-obcv">&mdash;</td>
+            <td class="tg-73oq">5/3: Project Report</td>
+            <td class="tg-obcv">&mdash;</td> <!-- Change class to tg-73oq for better link formatting. -->
+          </tr>
+        </table></div>
+        <br /><br />
+        <h3>Final Notes</h3>
+        This website is provided partially for student convenience, partially for my own record-keeping purposes, and partially for the benefit of others who are not able to enroll in the course but who may find the content interesting for one reason or another.  It is not a substitute for the course page on Blackboard or the course discussion board on Piazza!  Please refer to those sources for copies of the full syllabus, assignments, grading rubrics, submission links, and other useful information.  If you are not enrolled in the course but would like to request access to those materials, please send me an email introducing yourself and explaining why you would like to have access to them.
+        <br /><br />
+        Happy studying!
+        <br /><br />
+    </div>
+
+</div>
 
