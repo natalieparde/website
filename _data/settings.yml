@@ -17,7 +17,7 @@ menu_settings:
     - title: 'Teaching'
       url: 'teaching.html'
     - title: 'CV'
-      url: 'http://www.natalieparde.com/cv.pdf'
+      url: {{ site.url }}'/cv.pdf'
 
 footer_settings:
   logo_image: 
