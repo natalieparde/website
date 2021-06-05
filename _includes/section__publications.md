@@ -1,6 +1,6 @@
 ## Publications
 
-\* indicates members of my research team (see [CV](http://www.natalieparde.com/cv.pdf) or [Team](team.html) for details)
+\* indicates members of my research team (see [CV](http://www.natalieparde.com/files/cv.pdf) or [Team](team.html) for details)
 
 &nbsp;  
 
