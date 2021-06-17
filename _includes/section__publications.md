@@ -4,6 +4,7 @@
 
 &nbsp;  
 
+* Vera Kaelin, Mina Valizadeh,* Zuri Salgado, Natalie Parde, and Mary Khetani. Artificial intelligence in participation-focused pediatric rehabilitation: A scoping review. Abstract accepted for oral presentation at the *American Congress of Rehabilitation Medicine Annual Conference*, Virtual, September 26-29, 2021.
 * Mina Valizadeh,* Pardis Ranjbar-Noiey,* Cornelia Caragea, and Natalie Parde. [Identifying Medical Self-Disclosure in Online Communities](https://www.aclweb.org/anthology/2021.naacl-main.347.pdf). In the *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2021)*. Online, June 6-11, 2021.
 * Philip Hossu* and Natalie Parde. [UIC-NLP at SemEval-2020 Task 10: Exploring an Alternate Perspective on Evaluation](https://www.aclweb.org/anthology/2020.semeval-1.223.pdf). In the *Proceedings of the 14th International Workshop on Semantic Evaluation (SemEval 2020)*. Barcelona, Spain, December 12-13, 2020.
 * Cade Gordon* and Natalie Parde. [Latent Neural Differential Equations for Video Generation](https://preregister.science/papers_20neurips/27_paper.pdf). In the *Proceedings of the Preregistration Workshop on Machine Learning at NeurIPS 2020*. Online, December 6-12, 2020.
@@ -38,6 +39,7 @@
 
 ## Invited Talks
 
+* Vera Kaelin Mina Valizadeh,* Natalie Parde, and Mary Khetani. Artificial intelligence in rehabilitation targeting participation for young persons with disabilities: Gaps and opportunity. Mini-symposium to appear at the *American Academy of Cerebral Palsy and Developmental Medicine Annual Meeting*. Virtual, October 6-9, 2021.
 * Natalie Parde. The Doctor (or Chatbot?) Is In: Towards Automated Monitoring of Cognitive Health Status and Medical Self-Disclosure. Invited presentation at the *2020 Conference of the Chicago Chapter of the American Statistical Association (CCASA 2020)*. Virtual, November 20, 2020.
 * Natalie Parde. Supporting Cognitive Wellness through Spoken Language Analysis. Invited presentation at the *Penn State University Joint CSE/IST Colloquium in Natural Language Processing*. Virtual, October 23, 2020.
 * Natalie Parde. And, Action! Towards Leveraging Multimodal Patterns for Storytelling and Content Analysis. Invited keynote at the *2nd International Workshop on AI for Smart TV Content Production, Access and Delivery (AI4TV 2020)*. Virtual, October 12, 2020.
