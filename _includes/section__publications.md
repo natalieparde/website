@@ -42,6 +42,7 @@
 ## Invited Talks
 
 * Vera Kaelin, Mina Valizadeh,* Natalie Parde, and Mary Khetani. Artificial intelligence in rehabilitation targeting participation for young persons with disabilities: Gaps and opportunity. Mini-symposium to appear at the *American Academy of Cerebral Palsy and Developmental Medicine Annual Meeting*. Virtual, October 6-9, 2021.
+* Natalie Parde. [How to Write a Research Paper](files/how_to_write_a_research_paper.pdf). Workshop at the *UIC Break Through Tech Summer Internship Workshop Series*. Virtual, July 9, 2021.
 * Natalie Parde. The Doctor (or Chatbot?) Is In: Towards Automated Monitoring of Cognitive Health Status and Medical Self-Disclosure. Invited presentation at the *2020 Conference of the Chicago Chapter of the American Statistical Association (CCASA 2020)*. Virtual, November 20, 2020.
 * Natalie Parde. Supporting Cognitive Wellness through Spoken Language Analysis. Invited presentation at the *Penn State University Joint CSE/IST Colloquium in Natural Language Processing*. Virtual, October 23, 2020.
 * Natalie Parde. And, Action! Towards Leveraging Multimodal Patterns for Storytelling and Content Analysis. Invited keynote at the *2nd International Workshop on AI for Smart TV Content Production, Access and Delivery (AI4TV 2020)*. Virtual, October 12, 2020.
