@@ -4,7 +4,7 @@
 
 &nbsp;  
 
-* Vera Kaelin, Mina Valizadeh,* Zuri Salgado, Natalie Parde, and Mary Khetani. Artificial intelligence in participation-focused pediatric rehabilitation: A scoping review. Abstract accepted for oral presentation at the *American Congress of Rehabilitation Medicine Annual Conference*, Virtual, September 26-29, 2021.
+* Vera Kaelin, Mina Valizadeh,* Zuri Salgado, Natalie Parde, and Mary Khetani. [Artificial Intelligence in Rehabilitation Targeting the Participation of Children and Youth With Disabilities: Scoping Review](https://www.jmir.org/2021/11/e25745). *Journal of Medical Internet Research* 23(11):e25745. November 2021.
 * Philip Hossu* and Natalie Parde. Using Deep Learning to Correlate Reddit Posts with Economic Time Series During the COVID-19 Pandemic. To appear in the *Proceedings of the 3rd Workshop on Financial Technology and Natural Language Processing (FinNLP)*. Online, August 21-26, 2021.
 * Cade Gordon* and Natalie Parde. [Latent Neural Differential Equations for Video Generation](http://proceedings.mlr.press/v148/gordon21a/gordon21a.pdf). In the *Proceedings of Machine Learning Research (PMLR), Special Edition for Pre-Registration on Machine Learning*, 148:73-86. July 9, 2021.
 * Mina Valizadeh,* Pardis Ranjbar-Noiey,* Cornelia Caragea, and Natalie Parde. [Identifying Medical Self-Disclosure in Online Communities](https://www.aclweb.org/anthology/2021.naacl-main.347.pdf). In the *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2021)*. Online, June 6-11, 2021.
@@ -41,7 +41,8 @@
 
 ## Invited Talks
 
-* Vera Kaelin, Mina Valizadeh,* Natalie Parde, and Mary Khetani. Artificial intelligence in rehabilitation targeting participation for young persons with disabilities: Gaps and opportunity. Mini-symposium to appear at the *American Academy of Cerebral Palsy and Developmental Medicine Annual Meeting*. Virtual, October 6-9, 2021.
+* Natalie Parde. Inferring Missing EHR Variables from Clinical Notes to Facilitate Improved Understanding of Patient Health Equity. Invited presentation at the *Center for Computational Biotechnology and Genomic Medicine --- Workshop on AI and Healthcare*. Virtual, November 11, 2021.
+* Natalie Parde. The Dcotor (or Chatbot?) Is In: Towards Automated Support for Healthcare Tasks using Natural Language Processing. Invited presentation at the *Tufts University Computer Science Colloquium Series*. Virtual, October 14, 2021.
 * Natalie Parde. [How to Write a Research Paper](http://www.natalieparde.com/files/how_to_write_a_research_paper.pdf). Workshop at the *UIC Break Through Tech Summer Internship Workshop Series*. Virtual, July 9, 2021.
 * Natalie Parde. The Doctor (or Chatbot?) Is In: Towards Automated Monitoring of Cognitive Health Status and Medical Self-Disclosure. Invited presentation at the *2020 Conference of the Chicago Chapter of the American Statistical Association (CCASA 2020)*. Virtual, November 20, 2020.
 * Natalie Parde. Supporting Cognitive Wellness through Spoken Language Analysis. Invited presentation at the *Penn State University Joint CSE/IST Colloquium in Natural Language Processing*. Virtual, October 23, 2020.
