@@ -4,6 +4,7 @@
 
 &nbsp;  
 
+* Shahla Farzana,* Ashwin Deshpande,* and Natalie Parde. How You Say It Matters: Measuring the Impact of Verbal Disfluency Tags on Automated Dementia Detection. To appear in the *Proceedings of the 21st Workshop on Biomedical Language Processing (BioNLP 2022)*. Dublin, Ireland, May 26, 2022.
 * Vera Kaelin, Mina Valizadeh,* Zurisadai Salgado, Julia Sim, Dana Anaby, Andrew Boyd, Natalie Parde, and Mary Khetani. Capturing and Operationalizing Participation in Pediatric Re/habilitation Research Using Artificial Intelligence: A Scoping Review. *Frontiers in Rehabilitation Sciences (Special Issue)*. Forthcoming.
 * Mina Valizadeh* and Natalie Parde. [The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications.](https://www.natalieparde.com/files/acl2022_valizadeh_parde.pdf) To appear in the *Proceedings of the 2022 Conference of the Association for Computational Linguistics (ACL 2022)*. Dublin, Ireland, May 22-27, 2022.
 * Vera Kaelin, Mina Valizadeh,* Zurisadai Salgado, Natalie Parde, and Mary Khetani. [Artificial Intelligence in Rehabilitation Targeting the Participation of Children and Youth With Disabilities: Scoping Review](https://www.jmir.org/2021/11/e25745). *Journal of Medical Internet Research* 23(11):e25745. November 2021.
@@ -44,7 +45,7 @@
 ## Invited Talks
 
 * Natalie Parde. Inferring Missing EHR Variables from Clinical Notes to Facilitate Improved Understanding of Patient Health Equity. Invited presentation at the *Center for Computational Biotechnology and Genomic Medicine --- Workshop on AI and Healthcare*. Virtual, November 11, 2021.
-* Natalie Parde. The Dcotor (or Chatbot?) Is In: Towards Automated Support for Healthcare Tasks using Natural Language Processing. Invited presentation at the *Tufts University Computer Science Colloquium Series*. Virtual, October 14, 2021.
+* Natalie Parde. The Doctor (or Chatbot?) Is In: Towards Automated Support for Healthcare Tasks using Natural Language Processing. Invited presentation at the *Tufts University Computer Science Colloquium Series*. Virtual, October 14, 2021.
 * Natalie Parde. [How to Write a Research Paper](http://www.natalieparde.com/files/how_to_write_a_research_paper.pdf). Workshop at the *UIC Break Through Tech Summer Internship Workshop Series*. Virtual, July 9, 2021.
 * Natalie Parde. The Doctor (or Chatbot?) Is In: Towards Automated Monitoring of Cognitive Health Status and Medical Self-Disclosure. Invited presentation at the *2020 Conference of the Chicago Chapter of the American Statistical Association (CCASA 2020)*. Virtual, November 20, 2020.
 * Natalie Parde. Supporting Cognitive Wellness through Spoken Language Analysis. Invited presentation at the *Penn State University Joint CSE/IST Colloquium in Natural Language Processing*. Virtual, October 23, 2020.
