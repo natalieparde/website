@@ -4,8 +4,8 @@
 
 &nbsp;  
 
-* Shahla Farzana* and Natalie Parde. Are Interaction Patterns Helpful for Task-Agnostic Dementia Detection?  An Empirical Exploration. To appear in the *Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2022)*. Edinburgh, Scotland, September 7-9, 2022.
-* Mohammad Arvan,* Luís Pina, and Natalie Parde. Reproducibility of *Exploring Neural Text Simplification Models*: A Review. To appear in the *Proceedings of the 2022 ReproGen Shared Task on Reproducibility of Evaluations in NLG (ReproGen 2022)*. Waterville, Maine, July 21, 2022.
+* Shahla Farzana* and Natalie Parde. [Are Interaction Patterns Helpful for Task-Agnostic Dementia Detection?  An Empirical Exploration.](http://www.natalieparde.com/files/sigdial2022_farzana_parde.pdf) To appear in the *Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2022)*. Edinburgh, Scotland, September 7-9, 2022.
+* Mohammad Arvan,* Luís Pina, and Natalie Parde. [Reproducibility of *Exploring Neural Text Simplification Models*: A Review.](https://mo-arvan.github.io/assets/pdf/papers/INGL_Arvan_2022.pdf) In the *Proceedings of the 2022 ReproGen Shared Task on Reproducibility of Evaluations in NLG (ReproGen 2022)*. Waterville, Maine, July 21, 2022.
 * Ankit Aich* and Natalie Parde. [Are You Really Okay? A Transfer Learning-based Approach for Identification of Underlying Mental Illnesses.](https://aclanthology.org/2022.clpsych-1.8.pdf) In the *Proceedings of the 2022 Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2022)*. Seattle, Washington, July 15, 2022.
 * Charic Farinango Cuervo* and Natalie Parde. [UIC-NLP at SemEval-2022 Task 5: Exploring Contrastive Learning for Multimodal Detection of Misogynistic Memes.](https://aclanthology.org/2022.semeval-1.109.pdf) In the *Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval 2022)*. Seattle, Washington, July 14-15, 2022.
 * Megan Herrera,* Ankit Aich,* and Natalie Parde. [TweetTaglish: A Dataset for Investigating Tagalog-English Code-Switching.](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.225.pdf) In the *Proceedings of the 2022 Language Resources and Evaluation Conference (LREC 2022)*. Marseille, France, June 20-25, 2022.
@@ -50,6 +50,7 @@
 
 ## Invited Talks
 
+* Natalie Parde. The AI Doctor Is In: Towards Intelligent Automated Support for Healthcare Tasks using Natural Language Processing. Invited keynote at the *NLG4Health Workshop at the 15th International Natural Language Generation Conference*. Waterville, Maine, July 18, 2022.
 * Natalie Parde. Inferring Missing EHR Variables from Clinical Notes to Facilitate Improved Understanding of Patient Health Equity. Invited presentation at the *Center for Computational Biotechnology and Genomic Medicine --- Workshop on AI and Healthcare*. Virtual, November 11, 2021.
 * Natalie Parde. The Doctor (or Chatbot?) Is In: Towards Automated Support for Healthcare Tasks using Natural Language Processing. Invited presentation at the *Tufts University Computer Science Colloquium Series*. Virtual, October 14, 2021.
 * Natalie Parde. [How to Write a Research Paper](http://www.natalieparde.com/files/how_to_write_a_research_paper.pdf). Workshop at the *UIC Break Through Tech Summer Internship Workshop Series*. Virtual, July 9, 2021.
