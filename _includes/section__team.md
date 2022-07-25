@@ -1,4 +1,10 @@
-## Alumni
+## Graduate Alumni
+
+##### Ashwin Deshpande (Spring 2022)
+* M.S. Project: *Conversational Recommender Systems Using Multi-Relational Data*
+
+##### Charic Farinango Cuervo (Fall 2021)
+* M.S. Project: *Identification of Misogynous Memes through Natural Language Supervision and Multimodal Learning*
 
 ##### Philip Hossu (Spring 2021)
 * M.S. Project: *Investigating Sentiment Patterns and Other Trends in Financial Publications During the COVID-19 Pandemic*
@@ -20,7 +26,11 @@
 
 ## Prospective Team Members  {#prospective-students}
 
-**Note (Updated June 2021): All funded RA positions for the 2021-2022 academic year have now been filled.**  If you do not need funding, or if you already have funding from some other source, feel free to read onward!  If you do need funding, make sure to check back regularly.  If/when additional funded positions become available, I will post the application here.
+**I will be recruiting one new PhD student to start in Fall 2023.**  If you're interested in working with my group on a topic pertaining to creative language, multimodal NLP, or healthcare applications, please list me as a potential advisor in your research statement when applying to UIC!  This will make it easy for admissions to flag your application for me.  If you have specific questions about how your preferred research topic might fit in with ongoing projects or are otherwise curious about UIC's NLP group, feel free to send me an email (I receive many, many emails every day so please do not feel bad if I miss yours, and feel free to resend).  Unfortunately, due to email volume and to protect my current bandwidth for existing students, I am unable to review application materials prior to receiving them directly from our admissions committee, and cannot respond to emails with those materials.
+
+&nbsp;&nbsp;
+
+**I do not currently have any open, funded positions for the 2022/2023 academic year.**  If you do not need funding, or if you already have funding from some other source, feel free to read onward!  If you do need funding, make sure to check back regularly.  If/when additional funded positions become available, I will post the application here.
 
 &nbsp;  
 
@@ -36,7 +46,7 @@ If you're a current or admitted UIC graduate student, or if you have already sub
 
 ### Undergraduate
 
-If you are interested in working with me on a volunteer basis, for course credit, or for a capstone project, feel free to fill out the following form: [https://forms.gle/tUQDQtYbhL8t9g118](https://forms.gle/tUQDQtYbhL8t9g118).  I enjoy working with undergrads and have worked with many on past or current research projects.  Note that I require a minimum time commitment of 10 hours per week for all undergraduate researchers.
+If you are interested in working with me on a volunteer basis, for course credit, or for a capstone project, feel free to fill out the following form: [https://forms.gle/tUQDQtYbhL8t9g118](https://forms.gle/tUQDQtYbhL8t9g118).  I enjoy working with undergrads and have worked with many on past or current research projects.  Note that I require a minimum time commitment of 10 hours per week for all undergraduate researchers, and availability of these positions may be restricted depending on lab capacity to protect bandwidth for existing advisees.
 
 &nbsp;  
 
