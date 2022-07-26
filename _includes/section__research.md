@@ -34,6 +34,8 @@ In my group's project collaborating with researchers in UIC's [CPERL](https://cp
 * Vera Kaelin, Mina Valizadeh, Zurisadai Salgado, Natalie Parde, and Mary Khetani. [Artificial Intelligence in Rehabilitation Targeting the Participation of Children and Youth With Disabilities: Scoping Review.](https://www.jmir.org/2021/11/e25745) *Journal of Medical Internet Research* 23(11):e25745. November 2021.
 &nbsp;  
 &nbsp;  
+&nbsp;
+&nbsp;
 
 <table>
   <thead>
