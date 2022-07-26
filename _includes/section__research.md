@@ -70,6 +70,8 @@ In my group's work pertaining to **medical self-disclosure** in online communiti
 * Mina Valizadeh, Pardis Ranjbar-Noiey, Cornelia Caragea, and Natalie Parde. [Identifying Medical Self-Disclosure in Online Communities](https://www.aclweb.org/anthology/2021.naacl-main.347.pdf). In the *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2021)*. Online, June 6-11, 2021.
 
 &nbsp;  
+&nbsp;
+&nbsp;  
 &nbsp;  
 
 <p align="center">
