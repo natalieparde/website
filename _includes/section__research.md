@@ -32,6 +32,7 @@ In my group's project collaborating with researchers in UIC's [CPERL](https://cp
 * Mina Valizadeh and Natalie Parde. [The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications.](https://aclanthology.org/2022.acl-long.458/) In the *Proceedings of the 2022 Conference of the Association for Computational Linguistics (ACL 2022)*. Dublin, Ireland, May 22-27, 2022.
 * Vera Kaelin, Mina Valizadeh, Zurisadai Salgado, Julia Sim, Dana Anaby, Andrew Boyd, Natalie Parde, and Mary Khetani. [Capturing and Operationalizing Participation in Pediatric Re/habilitation Research Using Artificial Intelligence: A Scoping Review.](https://www.frontiersin.org/articles/10.3389/fresc.2022.855240/full) *Frontiers in Rehabilitation Sciences (Special Issue)*. April 2022.
 * Vera Kaelin, Mina Valizadeh, Zurisadai Salgado, Natalie Parde, and Mary Khetani. [Artificial Intelligence in Rehabilitation Targeting the Participation of Children and Youth With Disabilities: Scoping Review.](https://www.jmir.org/2021/11/e25745) *Journal of Medical Internet Research* 23(11):e25745. November 2021.
+
 &nbsp;  
 &nbsp;  
 &nbsp;
