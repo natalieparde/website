@@ -28,9 +28,9 @@
 
 **I will be recruiting 1-2 new PhD students to start in 2024.**  If you're interested in working with my group on a topic pertaining to creative language, multimodal NLP, or healthcare applications, please list me as a potential advisor in your research statement when applying to UIC!  This will make it easy for admissions to flag your application for me.  If you have specific questions about how your preferred research topic might fit in with ongoing projects or are otherwise curious about UIC's NLP group, feel free to send me an email (I receive many, many emails every day so please do not feel bad if I miss yours, and feel free to resend).  
 
-&nbsp;nbsp;
+&nbsp;&nbsp;
 
-Unfortunately, due to email volume and to protect my current bandwidth for existing students, I am unable to review application materials prior to receiving them directly from our admissions committee, and I cannot respond to emails with those materials.  I review applications and make admissions recommendations, not decisions, from the centralized batch of pre-reviewed applications that is made available to all faculty in our department.  Any correspondence with me prior to this will not affect your likelihood for admission, either positively or negatively.
+Due to email volume and to protect my current bandwidth for existing students, I am unable to review application materials prior to receiving them directly from our admissions committee, and I cannot respond to emails with those materials.  I review applications and make admissions recommendations (not decisions!) from the centralized batch of pre-reviewed applications that is made available to all faculty in our department.  Any correspondence with me prior to this will not affect your likelihood for admission, either positively or negatively.
 
 &nbsp;&nbsp;
 
