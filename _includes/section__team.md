@@ -26,11 +26,23 @@
 
 ## Prospective Team Members  {#prospective-students}
 
-**I will be recruiting one new PhD student to start in Fall 2023.**  If you're interested in working with my group on a topic pertaining to creative language, multimodal NLP, or healthcare applications, please list me as a potential advisor in your research statement when applying to UIC!  This will make it easy for admissions to flag your application for me.  If you have specific questions about how your preferred research topic might fit in with ongoing projects or are otherwise curious about UIC's NLP group, feel free to send me an email (I receive many, many emails every day so please do not feel bad if I miss yours, and feel free to resend).  Unfortunately, due to email volume and to protect my current bandwidth for existing students, I am unable to review application materials prior to receiving them directly from our admissions committee, and cannot respond to emails with those materials.
+**I will be recruiting 1-2 new PhD students to start in 2024.**  If you're interested in working with my group on a topic pertaining to creative language, multimodal NLP, or healthcare applications, please list me as a potential advisor in your research statement when applying to UIC!  This will make it easy for admissions to flag your application for me.  If you have specific questions about how your preferred research topic might fit in with ongoing projects or are otherwise curious about UIC's NLP group, feel free to send me an email (I receive many, many emails every day so please do not feel bad if I miss yours, and feel free to resend).  
+
+&nbsp;nbsp;
+
+Unfortunately, due to email volume and to protect my current bandwidth for existing students, I am unable to review application materials prior to receiving them directly from our admissions committee, and I cannot respond to emails with those materials.  I review applications and make admissions recommendations, not decisions, from the centralized batch of pre-reviewed applications that is made available to all faculty in our department.  Any correspondence with me prior to this will not affect your likelihood for admission, either positively or negatively.
 
 &nbsp;&nbsp;
 
-**I do not currently have any open, funded positions for the 2022/2023 academic year.**  If you do not need funding, or if you already have funding from some other source, feel free to read onward!  If you do need funding, make sure to check back regularly.  If/when additional funded positions become available, I will post the application here.
+**What do I look for in applications from prospective PhD students?**  I'm often asked what I'm looking for in applications from prospective PhD students, and I'm happy to provide additional transparency regarding this!  Things that I tend to prioritize most in applications are:
+- **Research Fit.** I'm especially looking for team members with interests that align with my own research agenda, or that fill existing gaps in my research group.  My favorite research topics are creative language (for example, processing and understanding metaphor), multimodality (for example, grounded dialogue with robots), and healthcare applications (for example, recognizing cognitive decline from spoken language).
+- **Writing Skills.** I like to collaborate with strong writers, as evidenced by GRE verbal and analytical writing scores or other writing samples (including your statement of purpose!).
+- **Creativity and Independence.** I like working with people who prefer proposing and pursuing their own ideas.  To that end, I like research meetings to feel collaborative (where we discuss your ideas and I provide high-level feedback) rather than hierarchical (where I tell you what to do).
+
+&nbsp;&nbsp;
+
+On a philosophical level, I tend to view natural language processing as a way to better understand language and various facets of society.  I prefer not to view it as an application of machine learning, and I tend to avoid working on problems that are primarily focused on machine learning fundamentals.  I like to work with researchers who share those perspectives, and who genuinely enjoy language and linguistics.  I'm happy to work with people who do not have formal training in computer science, but note that I (and my students) are housed in UIC's Department of Computer Science. If your undergraduate degree was not in CS, you will be required by the department to take certain undergraduate CS classes upon admission and prior to beginning full graduate-level coursework.
+
 
 &nbsp;  
 
@@ -41,6 +53,10 @@ I'm thrilled that you're interested in working with me!  I receive many emails e
 &nbsp;  
 
 If you're a current or admitted UIC graduate student, or if you have already submitted your application to UIC's PhD program, feel free to fill out the following form: [https://forms.gle/NtFCvHXvi8gH7Y2h6](https://forms.gle/NtFCvHXvi8gH7Y2h6).  I review responses regularly, and will contact you for more information if I have a role that matches your interests.  I'm always looking for creative, self-motivated researchers to join my team, but availability of certain positions may be restricted depending on lab capacity or funding needs.
+
+&nbsp; 
+
+**I do not currently have any open, funded positions for Summer or Fall 2023.**  If/when additional funded positions become available, I will post the application here.
 
 &nbsp;  
 
