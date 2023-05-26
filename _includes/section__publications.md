@@ -4,6 +4,7 @@
 
 &nbsp;  
 
+* Mohammad Arvan,* A. Seza Doğruöz, and Natalie Parde. Investigating Reproducibility at Interspeech Conferences: A Longitudinal and Comparative Perspective. To appear in the *Proceedings of the 24th INTERSPEECH Conference (INTERSPEECH 2023)*. Dublin, Ireland, August 20-24, 2023.
 * Mohammad Arvan,* Mina Valizadeh,* Parian Haghighat, Toan Nguyen, Heejin Jeong, and Natalie Parde. Linguistic Cognitive Load Analysis on Dialogues with an Intelligent Virtual Assistant. To appear in the *Proceedings of the 2023 Annual Meeting of the Cognitive Science Society (CogSci 2023)*. Sydney, Australia, July 26-29, 2023.
 * Shahla Farzana* and Natalie Parde. Towards Domain-Agnostic and Domain-Adaptive Dementia Detection from Spoken Language. To appear in the *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)*. Toronto, Canada, July 9-14, 2023.
 * Maja Popović, Mohammad Arvan,* Natalie Parde, and Anya Belz. Exploring Variation of Results from Different Experimental Conditions. To appear in *Findings of the Association for Computational Linguistics: ACL 2023 (ACL Findings 2023)*. Online, July 9-14, 2023.
@@ -63,6 +64,7 @@
 
 ## Invited Talks
 
+* Natalie Parde. Spoken Language Analysis for the Low-Resource, Interdisciplinary Task of Cognitive Health Assessment. Invited presentation at the *UChicago/TTIC Natural Language Processing Seminar Series*. Chicago, Illinois, May 26, 2023.
 * Natalie Parde. The AI Doctor Is In: Towards Intelligent Automated Support for Healthcare Tasks using Natural Language Processing. Invited keynote at the *NLG4Health Workshop at the 15th International Natural Language Generation Conference*. Waterville, Maine, July 18, 2022.
 * Natalie Parde. Inferring Missing EHR Variables from Clinical Notes to Facilitate Improved Understanding of Patient Health Equity. Invited presentation at the *Center for Computational Biotechnology and Genomic Medicine --- Workshop on AI and Healthcare*. Virtual, November 11, 2021.
 * Natalie Parde. The Doctor (or Chatbot?) Is In: Towards Automated Support for Healthcare Tasks using Natural Language Processing. Invited presentation at the *Tufts University Computer Science Colloquium Series*. Virtual, October 14, 2021.
