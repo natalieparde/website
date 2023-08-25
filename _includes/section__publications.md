@@ -4,6 +4,7 @@
 
 &nbsp;  
 
+* Vivian C. Villegas, Dianna L. Bosak, Zurisadai Salgado, Michelle Phoenix, Natalie Parde, Rachel Teplicky, Mary A. Khetani, and the High Value Early Intervention Research Group. Diversifying caregiver input to upgrade the Young Children’s Participation and Environment Measure for equitable pediatric re/habilitation practice.  Accepted to the *Journal of Patient-Reported Outcomes*, 2023.
 * Edoardo Stoppa,* Guido Walter Di Donato, Isabella Poles, Eleonora D'Arnese, Natalie Parde, and Marco Domenico Santambrogio. A Graph Machine Learning Approach to Automatic Dementia Detection. To appear in the *Proceedings of the IEEE International Conference on Biomedical and Health Informatics (BHI 2023)*. Pittsburgh, Pennsylvania, October 15-18, 2023.
 * Mohammad Arvan,* A. Seza Doğruöz, and Natalie Parde. [Investigating Reproducibility at Interspeech Conferences: A Longitudinal and Comparative Perspective](http://www.natalieparde.com/files/interspeech2023_arvan_et_al.pdf). To appear in the *Proceedings of the 24th INTERSPEECH Conference (INTERSPEECH 2023)*. Dublin, Ireland, August 20-24, 2023.
 * Mohammad Arvan,* Mina Valizadeh,* Parian Haghighat, Toan Nguyen, Heejin Jeong, and Natalie Parde. [Linguistic Cognitive Load Analysis on Dialogues with an Intelligent Virtual Assistant](https://escholarship.org/uc/item/84z3c8v7). In the *Proceedings of the 2023 Annual Meeting of the Cognitive Science Society (CogSci 2023)*. Sydney, Australia, July 26-29, 2023.
