@@ -1,5 +1,17 @@
 ## Graduate Alumni
 
+##### Mina Valizadeh (Spring 2023)
+* Ph.D. Dissertation: *Identifying Medical Self-Disclosure in Online Platforms*
+
+&nbsp;
+
+---
+
+&nbsp;
+
+##### Souvik Bhattacharya (Spring 2023)
+* M.S. Thesis: *Towards Understanding the State of Modern Misinformation Detection*
+
 ##### Edoardo Stoppa (Fall 2022)
 * M.S. Thesis: *GraDD: A Graph Machine Learning and Natural Language Processing Approach to Automatic Dementia Detection*
 
@@ -35,12 +47,12 @@
 
 **What do I look for in applications from prospective PhD students?**  I'm often asked what I'm looking for in applications from prospective PhD students, and I'm happy to provide additional transparency regarding this!  Things that I tend to prioritize most in applications are:
 - **Research Fit.** I'm especially looking for team members with interests that align with my own research agenda, or that fill existing gaps in my research group.  My favorite research topics are creative language (for example, processing and understanding metaphor), multimodality (for example, grounded dialogue with robots), and healthcare applications (for example, recognizing cognitive decline from spoken language).
-- **Writing Skills.** I like to collaborate with strong writers, as evidenced by GRE verbal and analytical writing scores or other writing samples (including your statement of purpose!).
+- **Writing Skills.** I like to collaborate with strong writers, as evidenced by standardized test scores or other writing samples (including your statement of purpose!).
 - **Creativity and Independence.** I like working with people who prefer proposing and pursuing their own ideas.  To that end, I like research meetings to feel collaborative (where we discuss your ideas and I provide high-level feedback) rather than hierarchical (where I tell you what to do).
 
 &nbsp;&nbsp;
 
-On a philosophical level, I tend to view natural language processing as a way to better understand language and various facets of society.  I tend to avoid working on problems that are primarily focused on machine learning fundamentals, and I like to work with researchers who genuinely enjoy language and linguistics.  I'm happy to work with people who do not have formal training in computer science, but note that I (and my students) are housed in UIC's Department of Computer Science. If your undergraduate degree was not in CS, you will be required by the department to take certain undergraduate CS classes upon admission and prior to beginning full graduate-level coursework.
+On a philosophical level, I tend to view natural language processing as a way to better understand language and various facets of society.  I tend to avoid working on problems that are primarily focused on machine learning fundamentals, and I like to work with researchers who genuinely enjoy language and linguistics.  I'm happy to work with people who do not have formal training in computer science, but note that I (and my students) are housed in UIC's Department of Computer Science. If your undergraduate degree was not in CS, you will be required by the department to take certain undergraduate CS classes upon admission and prior to beginning full graduate-level coursework.  You will also be expected to know how to develop code to implement your approaches, use popular machine learning and deep learning libraries to train and evaluate models, and have the requisite systems programming expertise to interact with and debug issues that arise in remote server environments.
 
 
 &nbsp;  
