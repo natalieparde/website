@@ -5,7 +5,7 @@ My primary research interests lie in several areas:
 
 &nbsp;  
 
-Below, I provide a brief overview of the ongoing projects in which I'm been involved; for additional details, refer to the relevant papers listed (if applicable) or feel free to send me a message.  My recent work has been conducted in UIC's [Natural Language Processing Laboratory](https://nlp.lab.uic.edu/), which I co-direct.  On my publications page, you can also find links to earlier work that, while not ongoing, still represents substantial research interests of mine.
+Below, I provide a brief overview of the ongoing projects in which I'm involved; for additional details, refer to the relevant papers listed or feel free to send me a message.  My recent work has been conducted in UIC's [Natural Language Processing Laboratory](https://nlp.lab.uic.edu/), which I co-direct.  On my publications page, you can also find links to papers about earlier lines of research that, while not ongoing, still represent substantial interests of mine.
 
 &nbsp;  
 
