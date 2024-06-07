@@ -80,6 +80,12 @@ I tend to avoid working on problems focused on generalized machine learning, and
 
 &nbsp;  
 
+### Postdoctoral
+
+I do not currently have dedicated funding to support postdoctoral appointments.  However, if you are interested in working with me as a postdoctorate through independent funding channels, feel free to reach out with information about your funding source and associated details and I'm happy to discuss this further.  I'm also happy to co-develop funding proposals for postdoctoral fellowships (e.g., [NSF postdoctoral fellowships](https://new.nsf.gov/funding/postdocs)) if our research interests are well-aligned.
+
+&nbsp; 
+
 ### Graduate
 
 If you're a current or admitted UIC graduate student, or if you have already submitted your application to UIC's PhD program, feel free to fill out the following form: [https://forms.gle/NtFCvHXvi8gH7Y2h6](https://forms.gle/NtFCvHXvi8gH7Y2h6) and send me an email to let me know you've filled it out.  I review responses regularly, and will contact you for more information if I have a role that matches your interests.  I'm always looking for creative, self-motivated researchers to join my team, but availability of certain positions may be restricted depending on lab capacity or funding needs.
