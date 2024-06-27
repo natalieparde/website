@@ -4,6 +4,7 @@
 
 &nbsp;  
 
+* Natalie Parde. Example-Driven Course Slides on Natural Language Processing Concepts. To appear in the *Proceedings of the Sixth Workshop on Teaching NLP (TeachingNLP 2024)*. Bangkok, Thailand, August 15, 2024.
 * Gyeongeun Lee,* Christina Wong,* Meghan Guo,* and Natalie Parde. Pouring Your Heart Out: Investigating the Role of Figurative Language in Online Expressions of Empathy. To appear in the *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)*. Bangkok, Thailand, August 11-16, 2024.
 * Sharad Chandakacherla,* Vaibhav Bhargava,* and Natalie Parde. UIC NLP GRADS at SemEval-2024 Task 3: Two-Step Disjoint Modeling for Emotion-Cause Pair Extraction. To appear in the *Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval 2024)*. Mexico City, Mexico, June 20-21, 2024.
 * Shahla Farzana,* Edoardo Stoppa,* Alex Leow, Tamar Gollan, Raeanne Moore, David Salmon, Douglas Galasko, Erin Sundermann, and Natalie Parde. [SLaCAD: A Spoken Language Corpus for Early Alzheimer's Disease Detection](https://aclanthology.org/2024.lrec-main.1296.pdf). In the *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. Turin, Italy, May 20-25, 2024.
