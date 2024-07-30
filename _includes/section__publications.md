@@ -4,6 +4,8 @@
 
 &nbsp;  
 
+* Mohammad Arvan,* Karl M. Kochendorfer, Shane Borkowsky, Aaron Chaise, Bhrandon Harris, and Natalie Parde. Deidentifying Clinical Text: NLM Scrubber Error Analysis. To appear in the *Proceedings of the American Medical Informatics Association 2024 Annual Symposium (AMIA 2024)*. San Francisco, California, November 9-13, 2024.
+* Gyeongeun Lee,* Zhu Wang, Sathya N. Ravi, and Natalie Parde. EmpatheticFIG at WASSA 2024 Empathy and Personality Shared Task: Predicting Empathy and Emotion in Conversations with Figurative Language. To appear in the *Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA 2024)*. Bangkok, Thailand, August 15, 2024.
 * Natalie Parde. Example-Driven Course Slides on Natural Language Processing Concepts. To appear in the *Proceedings of the Sixth Workshop on Teaching NLP (TeachingNLP 2024)*. Bangkok, Thailand, August 15, 2024.
 * Gyeongeun Lee,* Christina Wong,* Meghan Guo,* and Natalie Parde. Pouring Your Heart Out: Investigating the Role of Figurative Language in Online Expressions of Empathy. To appear in the *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)*. Bangkok, Thailand, August 11-16, 2024.
 * Sharad Chandakacherla,* Vaibhav Bhargava,* and Natalie Parde. [UIC NLP GRADS at SemEval-2024 Task 3: Two-Step Disjoint Modeling for Emotion-Cause Pair Extraction](https://aclanthology.org/2024.semeval-1.198.pdf). In the *Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval 2024)*. Mexico City, Mexico, June 20-21, 2024.
