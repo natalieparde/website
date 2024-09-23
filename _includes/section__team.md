@@ -1,5 +1,11 @@
 ## Graduate Alumni
 
+##### Mohammad Arvan (Summer 2024)
+* Ph.D. Dissertation: *Machine Learning and Open Science: On Risks and Challenges*
+
+##### Shahla Farzana (Spring 2024)
+* Ph.D. Dissertation: *Toward Addressing the Low Resource Task of Dementia Detection through Spontaneous Speech*
+
 ##### Ankit Aich (Spring 2024)
 * Ph.D. Dissertation: *Towards Clinically Improved NLP for Psycholinguistic Understanding*
 
@@ -37,6 +43,9 @@
 &nbsp;
 
 
+##### Sarthak Jain (Summer 2024)
+* M.S. Project: *Harnessing NLP for Real-World Impact on Mental Health*
+
 ##### Mohan Dogra (Spring 2023)
 * M.S. Project: *Stress Testing NLP Models Through Random Seed*
 
@@ -71,7 +80,7 @@
 **What do I look for in applications from prospective PhD students?**  I'm often asked what I'm looking for in applications from prospective PhD students, and I'm happy to provide additional transparency regarding this!  Things that I tend to prioritize most in applications are:
 - **Research Fit.** I'm especially looking for team members with interests that align with my own research agenda, or that fill existing gaps in my research group.  My favorite research topics are creative language (for example, processing and understanding metaphor), multimodality (for example, grounded dialogue with robots), and healthcare applications (for example, recognizing cognitive decline from spoken language).
 - **Writing Skills.** I like to collaborate with strong writers, as evidenced by standardized test scores or other writing samples (including your statement of purpose!).
-- **Creativity and Independence.** I like working with people who prefer proposing and pursuing their own ideas.  To that end, I like research meetings to feel collaborative (where we discuss your ideas and I provide high-level feedback) rather than hierarchical (where I tell you what to do).
+- **Creativity and Independence.** I like working with people who prefer proposing and pursuing their own ideas, and I prefer that research meetings feel collaborative (where we discuss your ideas and I provide high-level feedback) rather than hierarchical (where I tell you what to do).
 
 &nbsp;&nbsp;
 
