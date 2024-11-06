@@ -4,7 +4,8 @@
 
 &nbsp;  
 
-* Shahla Farzana,* Ivana Lucero, Vivian Villegas, Vera Kaelin, Mary Khetani, and Natalie Parde. CareCorpus+: Expanding and Augmenting Caregiver Strategy Data to Support Pediatric Rehabilitation. To appear in the *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*. Miami, Florida, November 12-16, 2024.
+* Shahla Farzana,* Ivana Lucero, Vivian Villegas, Vera Kaelin, Mary Khetani, and Natalie Parde. [CareCorpus+: Expanding and Augmenting Caregiver Strategy Data to Support Pediatric Rehabilitation](http://www.natalieparde.com/files/777_CareCorpus_Expanding_and_A.pdf). To appear in the *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*. Miami, Florida, November 12-16, 2024.
+* Shahla Farzana* and Natalie Parde. [Domain Adaptation via Prompt Learning for Alzheimer’s Detection](http://www.natalieparde.com/files/3059_Domain_Adaptation_via_Pro.pdf). To appear in the *Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings 2024)*. Miami, Florida, November 12-16, 2024.
 * Mohammad Arvan,* Karl M. Kochendorfer, Shane Borkowsky, Aaron Chaise, Bhrandon Harris, and Natalie Parde. Deidentifying Clinical Text: NLM Scrubber Error Analysis. To appear in the *Proceedings of the American Medical Informatics Association 2024 Annual Symposium (AMIA 2024)*. San Francisco, California, November 9-13, 2024.
 * Gyeongeun Lee,* Zhu Wang, Sathya N. Ravi, and Natalie Parde. [EmpatheticFIG at WASSA 2024 Empathy and Personality Shared Task: Predicting Empathy and Emotion in Conversations with Figurative Language](https://aclanthology.org/2024.wassa-1.41.pdf). In the *Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA 2024)*. Bangkok, Thailand, August 15, 2024.
 * Natalie Parde. [Example-Driven Course Slides on Natural Language Processing Concepts](https://aclanthology.org/2024.teachingnlp-1.2.pdf). In the *Proceedings of the Sixth Workshop on Teaching NLP (TeachingNLP 2024)*. Bangkok, Thailand, August 15, 2024.
@@ -83,6 +84,9 @@
 
 ## Invited Talks
 
+* Natalie Parde. Natural Language Processing for Healthcare Analysis, Assessment, and Intervention.  Invited presentation and panel discussion at the *Health Data Science Consortium Seminar and Networking Series (NLP: From Theoretical Research to Health Sciences Applications)*. Chicago, Illinois, January 22, 2024.
+* Natalie Parde. Sparking New Insights for Assessing Cognitive Health via Spoken Language.  Invited presentation at the *Inaugural UIC SparkTalks Series*. Chicago, Illinois, November 16, 2023.
+* Natalie Parde. Low-Resource Spoken Language Analysis for Cognitive Health Assessment.  Invited presentation at the *UIC Department of Information and Decision Sciences Seminar*. Chicago, Illinois, September 22, 2023.
 * Natalie Parde. Spoken Language Analysis for the Low-Resource, Interdisciplinary Task of Cognitive Health Assessment. Invited presentation at the *UChicago/TTIC Natural Language Processing Seminar Series*. Chicago, Illinois, May 26, 2023.
 * Natalie Parde. The AI Doctor Is In: Towards Intelligent Automated Support for Healthcare Tasks using Natural Language Processing. Invited keynote at the *NLG4Health Workshop at the 15th International Natural Language Generation Conference*. Waterville, Maine, July 18, 2022.
 * Natalie Parde. Inferring Missing EHR Variables from Clinical Notes to Facilitate Improved Understanding of Patient Health Equity. Invited presentation at the *Center for Computational Biotechnology and Genomic Medicine --- Workshop on AI and Healthcare*. Virtual, November 11, 2021.
