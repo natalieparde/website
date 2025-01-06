@@ -20,6 +20,9 @@
 
 
 
+##### Sharad Chandakacherla (Fall 2024)
+* M.S. Thesis: *Exploring Multimodal Emotion Classification and Emotion-Cause Pair Extraction*
+
 ##### Souvik Bhattacharya (Spring 2023)
 * M.S. Thesis: *Towards Understanding the State of Modern Misinformation Detection*
 
@@ -101,7 +104,7 @@ If you're a current or admitted UIC graduate student, or if you have already sub
 
 &nbsp; 
 
-**I do not currently have any open, funded positions for Summer or Fall 2024.**  If/when additional funded positions become available, I will post the application here.
+**I do not currently have any open, funded positions for Spring 2025.**  If/when additional funded positions become available, I will post the application here.
 
 &nbsp;  
 
