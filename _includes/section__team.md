@@ -100,11 +100,7 @@ I do not currently have dedicated funding to support postdoctoral appointments. 
 
 ### Graduate
 
-If you're a current or admitted UIC graduate student, or if you have already submitted your application to UIC's PhD program, feel free to fill out the following form: [https://forms.gle/NtFCvHXvi8gH7Y2h6](https://forms.gle/NtFCvHXvi8gH7Y2h6) and send me an email to let me know you've filled it out.  I review responses regularly, and will contact you for more information if I have a role that matches your interests.  I'm always looking for creative, self-motivated researchers to join my team, but availability of certain positions may be restricted depending on lab capacity or funding needs.
-
-&nbsp; 
-
-**I do not currently have any open, funded positions for Spring 2025.**  If/when additional funded positions become available, I will post the application here.
+If you're a current or admitted UIC graduate student, or if you have already submitted your application to UIC's PhD program, feel free to fill out the following form: [https://forms.gle/NtFCvHXvi8gH7Y2h6](https://forms.gle/NtFCvHXvi8gH7Y2h6) and send me an email to let me know you've filled it out.  I review responses regularly, and will contact you for more information if I have a role that matches your interests.  I'm always looking for creative, self-motivated researchers to join my team, but availability of certain positions may be restricted depending on lab capacity or funding needs.  **Unfortunately, I do not have funding for MS students.**
 
 &nbsp;  
 
