@@ -20,6 +20,12 @@
 
 
 
+##### Eleonora Quaranta (Spring 2025)
+* M.S. Thesis: *Emotion-based Multimodal Music Classifier for Recommender Systems*
+
+##### Calliope Bandera (Fall 2024)
+* M.S. Thesis: *Empathy Cause Identification: Towards Unveiling Empathetic Triggers in Online Interactions*
+
 ##### Sharad Chandakacherla (Fall 2024)
 * M.S. Thesis: *Exploring Multimodal Emotion Classification and Emotion-Cause Pair Extraction*
 
@@ -43,51 +49,22 @@
 
 ---
 
-&nbsp;
-
-
-##### Sarthak Jain (Summer 2024)
-* M.S. Project: *Harnessing NLP for Real-World Impact on Mental Health*
-
-##### Mohan Dogra (Spring 2023)
-* M.S. Project: *Stress Testing NLP Models Through Random Seed*
-
-##### Nitish Dewan (Spring 2023)
-* M.S. Project: *Automatic Code Comment Generation*
-
-##### Sachin Parsa (Spring 2022)
-* M.S. Project: *Stock Market Portfolio Management with Time Series and Sentiment Analysis*
-
-##### Ashwin Deshpande (Spring 2022)
-* M.S. Project: *Conversational Recommender Systems Using Multi-Relational Data*
-
-##### Charic Farinango Cuervo (Fall 2021)
-* M.S. Project: *Identification of Misogynous Memes through Natural Language Supervision and Multimodal Learning*
-
-##### Philip Hossu (Spring 2021)
-* M.S. Project: *Investigating Sentiment Patterns and Other Trends in Financial Publications During the COVID-19 Pandemic*
-
-
-&nbsp;  
-
----
-
 &nbsp;  
 
 ## Prospective Team Members  {#prospective-students}
 
-**I will be recruiting a new PhD student to start in 2025.**  If you're interested in working with my group on a topic pertaining to creative language, multimodal NLP, or healthcare applications, please list me as a potential advisor in your research statement when applying to UIC!  This will make it easy for admissions to flag your application for me (and other NLP faculty) to review.  Due to email volume and to protect my current bandwidth for existing students, I am unable to review application materials prior to this, and I cannot respond to emails with those materials.  I'd recommend checking out the requirements [here](https://cs.uic.edu/graduate/admissions/), or emailing our excellent CS staff at [cs-grad@uic.edu](mailto:cs-grad@uic.edu) for more information about how to join UIC's Department of Computer Science.
+**I have completed my 2025 PhD recruitment cycle.**  I will begin reviewing PhD applications for fall 2026 in late 2025.  If you're interested in working with my group on a topic pertaining to creative language, multimodal NLP, or healthcare applications, please list me as a potential advisor in your research statement when applying to UIC!  This will make it easy for admissions to flag your application for me (and other NLP faculty) to review.  Due to email volume and to protect my current bandwidth for existing students, I am unable to review application materials prior to this, and I cannot respond to unsolicited emails with those materials.  I'd recommend checking out the requirements [here](https://cs.uic.edu/graduate/admissions/), or emailing our excellent CS staff at [cs-grad@uic.edu](mailto:cs-grad@uic.edu) for more information about how to join UIC's Department of Computer Science.
 
 &nbsp;&nbsp;
 
 **What do I look for in applications from prospective PhD students?**  I'm often asked what I'm looking for in applications from prospective PhD students, and I'm happy to provide additional transparency regarding this!  Things that I tend to prioritize most in applications are:
-- **Research Fit.** I'm especially looking for team members with interests that align with my own research agenda, or that fill existing gaps in my research group.  My favorite research topics are creative language (for example, processing and understanding metaphor), multimodality (for example, grounded dialogue with robots), and healthcare applications (for example, recognizing cognitive decline from spoken language).
-- **Writing Skills.** I like to collaborate with strong writers, as evidenced by standardized test scores or other writing samples (including your statement of purpose!).
+- **Research Fit.** I'm especially looking for team members with interests and experience that align with my own research agenda, or that fill existing gaps in my research group.  My favorite research topics are creative language (for example, processing and understanding metaphor), multimodality (for example, grounded dialogue with robots), and healthcare applications (for example, recognizing cognitive decline from spoken language).
+- **Communication Skills.** Effectively communicating your work and motivations, as evidenced by standardized test scores, other writing samples (e.g., prior publications and/or your statement of purpose), or other media output, is an often-overlooked skillset for advancing your research career, and one that I value highly.
 - **Creativity and Independence.** I like working with people who prefer proposing and pursuing their own ideas, and I prefer that research meetings feel collaborative (where we discuss your ideas and I provide high-level feedback) rather than hierarchical (where I tell you what to do).
 
 &nbsp;&nbsp;
 
-I tend to avoid working on problems focused on generalized machine learning, and I like to work with researchers who genuinely enjoy language and linguistics.  I'm happy to work with people who do not have formal training in computer science, but note that I (and my students) are housed in UIC's Department of Computer Science. If your undergraduate degree was not in CS, you will be required by the department to take certain undergraduate CS classes upon admission and prior to beginning full graduate-level coursework.  You will also be expected to know how to develop code to implement your approaches, use popular machine learning and deep learning libraries to train and evaluate models, and have the requisite systems programming expertise to interact with and debug issues that arise in remote server environments.
+I like to work with researchers who genuinely enjoy language and linguistics, and I'm happy to work with people who do not have formal training in computer science, but note that I (and my students) are housed in UIC's Department of Computer Science. If your undergraduate degree was not in CS, you will be required by the department to take certain undergraduate CS classes upon admission and prior to beginning full graduate-level coursework.  You will also be expected to know how to develop code to implement your approaches, use popular machine learning and deep learning libraries to train and evaluate models, and have the requisite systems programming expertise to interact with and debug issues that arise in remote server environments.
 
 
 &nbsp;  
