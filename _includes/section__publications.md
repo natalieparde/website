@@ -4,6 +4,7 @@
 
 &nbsp;  
 
+* Mohammad Arvan* and Natalie Parde. ReproHum: #0744-02: Investigating the Reproducibility of Semantic Preservation Human Evaluations. To appear in *Proceedings of the Generation, Evaluation & Metrics Workshop (GEM 2025)*. Vienna, Austria, July 31, 2025.
 * Gyeongeun Lee,* Zhu Wang, Sathya Ravi, and Natalie Parde. From Heart to Words: Generating Empathetic Responses via Integrated Figurative Language and Semantic Context Signals. To appear in *Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL Findings 2025)*. Vienna, Austria, July 27-August 1, 2025.
 * Lauren McBride, Varsha D. Badal, Philip D. Harvey, Amy Pinkham, Ankit Aich,* Natalie Parde, and Colin Depp. [Evaluating Natural Language Processing Derived Linguistic Features Associated with Current Suicidal Ideation, Past Attempts, and Future Suicidal Behavior](https://doi.org/10.1016/j.jpsychires.2025.05.004).  *Journal of Psychiatric Research*. 2025; 187: 25-33. doi:10.1016/j.jpsychires.2025.05.004.
 * Ankit Aich,* Avery Quynh, Pamela Osseyi, Amy Pinkham, Philip Harvey, Brenda Curtis, Colin Depp, and Natalie Parde. [Using LLMs to Aid Annotation and Collection of Clinically-Enriched Data in Bipolar Disorder and Schizophrenia](https://aclanthology.org/2025.clpsych-1.15/). In the *Proceedings of the 2025 Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2025)*. Albuquerque, New Mexico, May 3, 2025.
