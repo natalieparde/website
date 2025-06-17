@@ -24,12 +24,47 @@
     }
   }
 
+  .team__image {
+    width: 50%;
+    margin: 0 0 40px 0;
+    max-width: 420px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    img {
+      margin-bottom: 24px;
+    }
+  }
+
   .title {
     margin-bottom: 16px;
   }
 
   .about__content {
-    max-width: 456px;
+      width: 100%;
+      max-width: 740px;
+
+    .title {
+      margin-bottom: 16px;
+    }
+
+    .subtitle {
+      margin-bottom: 16px;
+    }
+
+    p {
+      margin-bottom: 16px;
+    }
+
+    .cta {
+      margin: 8px 0 0 -4px;
+    }
+	}
+
+  .team__content {
+    width: 100%;
+    max-width: 1024px;
 
     .title {
       margin-bottom: 16px;
