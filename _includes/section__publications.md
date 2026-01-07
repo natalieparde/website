@@ -4,6 +4,7 @@
 
 &nbsp;  
 
+* Bernard Weigel, Quincy McCrary, Kara Zweerink, Natalie Parde, and Neeraj Chhabra. [The National Poison data System®: a bibliographic review of publication trends and topic modeling using language models](https://doi.org/10.1080/15563650.2025.2586077). *Clinical Toxicology*. 2025; 63(12). doi:10.1080/15563650.2025.2586077. 
 * Calliope Bandera,* Gyeongeun Lee, and Natalie Parde. Unveiling Empathic Triggers in Online Interactions via Empathy Cause Identification. To appear in *Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025)*. Mumbai, India, December 20-24, 2025.
 * Xiaoxu Ding, Viet Dao, Al Raimundo, Suhail Nanji, Christine Mulligan, Julia Schmidt, Natalie Parde, Brodie Sakakibara, Liisa Holsti, and Skye Barbic. [Virtual, In-Person and Hybrid Utilization Patterns of Youth Accessing Integrated Youth Services: A Retrospective Cohort Study of Youth Ages 12–24](https://doi.org/10.1016/j.jadohealth.2025.09.013). *Journal of Adolescent Health*. 2025. doi:10.1016/j.jadohealth.2025.09.013. 
 * Xiaoxu Ding, Kirsten Marchand, Liisa Holsti, Julia Schmidt, Natalie Parde, Brodie Sakakibara, and Skye Barbic. [Unlocking Mobile Health Adoption: A Qualitative Exploration of User Experiences, Barriers, and Facilitators within Integrated Youth Services in British Columbia, Canada](https://journals.sagepub.com/doi/10.1177/20552076251365073). *Digital Health*. 2025. doi:10.1177/20552076251365073.
