@@ -4,6 +4,8 @@
 
 &nbsp;  
 
+* Gyeongeun Lee* and Natalie Parde. Empathy Speaks in Metaphors: The Empathy-Metaphor Corpus of Figurative Language in Empathetic Text. To appear in the *15th Edition of the Language Resources and Evaluation Conference (LREC 2026)*. Palma de Mallorca, Spain, May 11-16, 2026.
+* Chirag Chhablani, Usman Shahid, Natalie Parde, Sami Muslmani, Huiyi Hu, Dillon Thorpe, Majid Afshar, Niranjan Karnik, and Neeraj Chhabra. [Machine learning models to detect opioid misuse in emergency department patients at triage](https://doi.org/10.1016/j.ajem.2026.02.037). *The American Journal of Emergency Medicine*. 2026; 104:17-23. doi:10.1016/j.ajem.2026.02.037. 
 * Bernard Weigel, Quincy McCrary, Kara Zweerink, Natalie Parde, and Neeraj Chhabra. [The National Poison data System®: a bibliographic review of publication trends and topic modeling using language models](https://doi.org/10.1080/15563650.2025.2586077). *Clinical Toxicology*. 2025; 63(12). doi:10.1080/15563650.2025.2586077. 
 * Calliope Bandera,* Gyeongeun Lee,* and Natalie Parde. [Unveiling Empathic Triggers in Online Interactions via Empathy Cause Identification](https://aclanthology.org/2025.ijcnlp-long.49/). In *Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025)*. Mumbai, India, December 20-24, 2025.
     * 🗳️ Best Paper Award Nominee
