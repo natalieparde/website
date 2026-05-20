@@ -1,5 +1,8 @@
 ## Graduate Alumni
 
+##### Gyeongeun Lee (Spring 2026)
+* Ph.D. Dissertation: *Understanding Empathy in Online Support Forums*
+
 ##### Mohammad Arvan (Summer 2024)
 * Ph.D. Dissertation: *Machine Learning and Open Science: On Risks and Challenges*
 
@@ -19,6 +22,9 @@
 &nbsp;
 
 
+
+##### Mokshit Surana (Spring 2026)
+* M.S. Thesis: *Structural Robustness of Transformer Models for Clinical Text Summarization on MIMIC-III*
 
 ##### Eleonora Quaranta (Spring 2025)
 * M.S. Thesis: *Emotion-based Multimodal Music Classifier for Recommender Systems*
@@ -53,9 +59,11 @@
 
 ## Prospective Team Members  {#prospective-students}
 
-**I have completed my 2025 PhD recruitment cycle.**  I will begin reviewing PhD applications for Fall 2026 in late 2025.  If you're interested in working with my group on a topic pertaining to creative language, multimodal NLP, or healthcare applications, please list me as a potential advisor in your research statement when applying to UIC!  This will make it easy for admissions to flag your application for me (and other NLP faculty) to review.  Due to email volume and to protect my current bandwidth for existing students, I am unable to review application materials prior to this, and I cannot respond to unsolicited emails with those materials.  I'd recommend checking out the requirements [here](https://cs.uic.edu/graduate/admissions/), or emailing our excellent CS staff at [cs-grad@uic.edu](mailto:cs-grad@uic.edu) for more information about how to join UIC's Department of Computer Science.
+**I have completed my 2026 PhD recruitment cycle.**  I do not plan to review any more applications until the Fall 2027 admissions cycle begins.  
 
-&nbsp;&nbsp;
+**How can I apply to work with you?**  If you're interested in working with my group on a topic pertaining to creative language, multimodal NLP, or healthcare applications, please list me as a potential advisor in your research statement when applying to UIC!  This will make it easy for admissions to flag your application for me (and other NLP faculty) to review.  Due to email volume and to protect my current bandwidth for existing students, I am unable to review application materials prior to this, and I cannot respond to unsolicited emails with those materials.  I'd recommend checking out the requirements [here](https://cs.uic.edu/graduate/admissions/), or emailing our excellent CS staff at [cs-grad@uic.edu](mailto:cs-grad@uic.edu) for more information about how to join UIC's Department of Computer Science.
+
+**Will you have openings in Fall 2027?**  This depends on many factors, including funding bandwidth, departmental admissions quotas, and matriculation of current students.  Unfortunately, I'm unlikely to be able to answer this prior to the Fall 2027 general application deadline, nor can I provide answers at a more individual level based on specific circumstances.  Since the NLP Lab is currently very full, I suspect that the likelihood of having openings is lower than usual, and if your application bandwidth is limited and/or you'd only want to apply to UIC to work with me specifically, you may want to use this information to calibrate your decision.  If you have external funding (e.g., through an outside job or fellowship), I encourage you to apply.
 
 **What do I look for in applications from prospective PhD students?**  I'm often asked what I'm looking for in applications from prospective PhD students, and I'm happy to provide additional transparency regarding this!  Things that I tend to prioritize most in applications are:
 - **Research Fit.** I'm especially looking for team members with interests and experience that align with my own research agenda, or that fill existing gaps in my research group.  My favorite research topics are creative language (for example, processing and understanding metaphor), multimodality (for example, grounded dialogue with robots), and healthcare applications (for example, recognizing cognitive decline from spoken language).
@@ -64,7 +72,7 @@
 
 &nbsp;&nbsp;
 
-I like to work with researchers who genuinely enjoy language and linguistics, and I'm happy to work with people who do not have formal training in computer science, but note that I (and my students) are housed in UIC's Department of Computer Science. If your undergraduate degree was not in CS, you will be required by the department to take certain undergraduate CS classes upon admission and prior to beginning full graduate-level coursework.  You will also be expected to know how to develop code to implement your approaches, use popular machine learning and deep learning libraries to train and evaluate models, and have the requisite systems programming expertise to interact with and debug issues that arise in remote server environments.
+Note that since I (and my students) are housed in UIC's Department of Computer Science, if your undergraduate degree was not in CS, you will be required by the department to take undergraduate CS classes upon admission and prior to beginning full graduate-level coursework.  You will also be expected to know how to develop code to implement your approaches, use popular machine learning and deep learning libraries to train and evaluate models, and have the requisite systems programming expertise to interact with and debug issues that arise in remote server environments.
 
 
 &nbsp;  
@@ -77,7 +85,7 @@ I do not currently have dedicated funding to support postdoctoral appointments. 
 
 ### Graduate
 
-If you're a current or admitted UIC graduate student, or if you have already submitted your application to UIC's PhD program, feel free to fill out the following form: [https://forms.gle/NtFCvHXvi8gH7Y2h6](https://forms.gle/NtFCvHXvi8gH7Y2h6) and send me an email to let me know you've filled it out.  I review responses regularly, and will contact you for more information if I have a role that matches your interests.  I'm always looking for creative, self-motivated researchers to join my team, but availability of certain positions may be restricted depending on lab capacity or funding needs.  **Unfortunately, I do not have funding for MS students.**
+If you're a current UIC graduate student, feel free to fill out the following form: [https://forms.gle/NtFCvHXvi8gH7Y2h6](https://forms.gle/NtFCvHXvi8gH7Y2h6) and send me an email to let me know you've filled it out.  I review responses regularly, and will contact you for more information if I have a role that matches your interests, although currently my lab capacity is full.  **Unfortunately, I do not have funding for MS students, nor do I currently have bandwidth to advise PhD students wishing to transfer from other advisors within the CS program or from other programs within the university.**
 
 &nbsp;  
 
@@ -89,4 +97,4 @@ If you are interested in working with me on a volunteer basis, for course credit
 
 ### Visiting
 
-At this time I do not have any short-term positions available for non-UIC students.  If you are interested in working with me in a more permanent capacity sometime in the future, please apply to UIC directly and fill out the relevant form listed above once you've submitted your application to ensure that you are considered for available positions once you are admitted.
+At this time I do not have any short-term positions available for non-UIC students.  If you are interested in working with me in a more permanent capacity sometime in the future, please apply to UIC directly and follow the relevant instructions above once you are admitted.
