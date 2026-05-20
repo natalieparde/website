@@ -66,7 +66,7 @@
 
 &nbsp;&nbsp;
 
-**Will you have openings in Fall 2027?**  This depends on many factors, including funding bandwidth, departmental admissions quotas, and matriculation of current students.  Unfortunately, I'm unlikely to be able to answer this prior to the Fall 2027 general application deadline, nor can I provide answers at a more individual level based on specific circumstances.  Since the NLP Lab is currently very full, I suspect that the likelihood of having openings is lower than usual, and if your application bandwidth is limited and/or you'd only want to apply to UIC to work with me specifically, you may want to use this information to calibrate your decision.  If you have external funding (e.g., through an outside job or fellowship), I encourage you to apply.
+**Will you have openings in Fall 2027?**  This depends on many factors, including funding bandwidth, departmental admissions quotas, and progress of current students.  Unfortunately, I'm unlikely to be able to answer this prior to the Fall 2027 general application deadline, nor can I provide answers at a more individual level based on specific circumstances.  Since the NLP Lab is currently very full, I suspect that the likelihood of having openings is lower than usual, and if your application bandwidth is limited and/or you'd only want to apply to UIC to work with me specifically, you may want to use this information to calibrate your decision.  If you have external funding (e.g., through an outside job or fellowship), I encourage you to apply.
 
 &nbsp;&nbsp;
 
