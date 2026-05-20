@@ -40,11 +40,11 @@ In my group's project collaborating with researchers in UIC's [CPERL](https://cp
 &nbsp;  
 
 
-In my group's work pertaining to **health-related online behavior** we have examined medical self-disclosure and (more recently) empathy in online health forums.  This has resulted in two innovative datasets: one pertaining to medical self-disclosure, and AcnEmpathize, a novel dataset of domain-specific health-related online empathy.  More information about this work, including details for accessing these datasets, can be found here:
+In my group's work pertaining to **health-related online behavior** we have examined medical self-disclosure and (more recently) empathy in online health forums.  More information about this work, including details for accessing new datasets related to these tasks, can be found here:
 &nbsp;  
+* Calliope Bandera,* Gyeongeun Lee,* and Natalie Parde. [Unveiling Empathic Triggers in Online Interactions via Empathy Cause Identification](https://aclanthology.org/2025.ijcnlp-long.49/). In *Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025)*. Mumbai, India, December 20-24, 2025.
 * Gyeongeun Lee* and Natalie Parde. [AcnEmpathize: A Dataset for Understanding Empathy in Dermatology Conversations](https://aclanthology.org/2024.lrec-main.13.pdf). In the *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. Turin, Italy, May 20-25, 2024.
 * Mina Valizadeh,* Xing Qian,* Pardis Ranjbar-Noiey,* Cornelia Caragea and Natalie Parde. [What Clued the AI Doctor In? On the Influence of Data Source and Quality for Transformer-Based Medical Self-Disclosure Detection](https://aclanthology.org/2023.eacl-main.86/). In the *Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)*. Dubrovnik, Croatia, May 2-6, 2023.
-* Mina Valizadeh,* Pardis Ranjbar-Noiey,* Cornelia Caragea, and Natalie Parde. [Identifying Medical Self-Disclosure in Online Communities](https://www.aclweb.org/anthology/2021.naacl-main.347.pdf). In the *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2021)*. Online, June 6-11, 2021.
 
 
 &nbsp;  
@@ -71,9 +71,9 @@ My work in multimodal natural language processing has primarily centered on lang
 
 My work on creative language has primarily focused on figurative language.  Recently, my group has examined metaphor, idiom, and hyperbole in empathetic online communication.  We also conducted a focused study on euphemism.  Some publications regarding this, along with my earlier work on metaphor novelty and sarcasm in more generalized domains, include the following:
 &nbsp;  
+* Gyeongeun Lee* and Natalie Parde. [Empathy Speaks in Metaphors: The *Empathy-Metaphor* Corpus of Figurative Language in Empathetic Text](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.873.pdf). In *Proceedings of the 15th Edition of the Language Resources and Evaluation Conference (LREC 2026)*. Palma de Mallorca, Spain, May 11-16, 2026.
+* Gyeongeun Lee,* Zhu Wang, Sathya Ravi, and Natalie Parde. [From Heart to Words: Generating Empathetic Responses via Integrated Figurative Language and Semantic Context Signals](https://aclanthology.org/2025.findings-acl.231/). In *Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL Findings 2025)*. Vienna, Austria, July 27-August 1, 2025.
 * Gyeongeun Lee,* Christina Wong,* Meghan Guo,* and Natalie Parde. [Pouring Your Heart Out: Investigating the Role of Figurative Language in Online Expressions of Empathy](https://aclanthology.org/2024.acl-long.31.pdf). In the *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)*. Bangkok, Thailand, August 11-16, 2024.
-* Devika Tiwari* and Natalie Parde. [An Exploration of Linguistically-Driven and Transfer Learning Methods for Euphemism Detection](https://aclanthology.org/2022.flp-1.18/). In the *Proceedings of the Third Workshop on Figurative Language Processing (FigLang 2022)*. Abu Dhabi, United Arab Emirates, December 8, 2022.
-* Natalie Parde and Rodney D. Nielsen. [Exploring the Terrain of Metaphor Novelty: A Regression-based Approach for Automatically Scoring Metaphors](https://ojs.aaai.org/index.php/AAAI/article/view/11940). In the *Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018)*. New Orleans, Louisiana, February 2-7, 2018. 
 
 &nbsp;
 

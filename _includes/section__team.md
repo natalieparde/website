@@ -60,10 +60,13 @@
 ## Prospective Team Members  {#prospective-students}
 
 **I have completed my 2026 PhD recruitment cycle.**  I do not plan to review any more applications until the Fall 2027 admissions cycle begins.  
+&nbsp;
 
 **How can I apply to work with you?**  If you're interested in working with my group on a topic pertaining to creative language, multimodal NLP, or healthcare applications, please list me as a potential advisor in your research statement when applying to UIC!  This will make it easy for admissions to flag your application for me (and other NLP faculty) to review.  Due to email volume and to protect my current bandwidth for existing students, I am unable to review application materials prior to this, and I cannot respond to unsolicited emails with those materials.  I'd recommend checking out the requirements [here](https://cs.uic.edu/graduate/admissions/), or emailing our excellent CS staff at [cs-grad@uic.edu](mailto:cs-grad@uic.edu) for more information about how to join UIC's Department of Computer Science.
+&nbsp;
 
 **Will you have openings in Fall 2027?**  This depends on many factors, including funding bandwidth, departmental admissions quotas, and matriculation of current students.  Unfortunately, I'm unlikely to be able to answer this prior to the Fall 2027 general application deadline, nor can I provide answers at a more individual level based on specific circumstances.  Since the NLP Lab is currently very full, I suspect that the likelihood of having openings is lower than usual, and if your application bandwidth is limited and/or you'd only want to apply to UIC to work with me specifically, you may want to use this information to calibrate your decision.  If you have external funding (e.g., through an outside job or fellowship), I encourage you to apply.
+&nbsp;
 
 **What do I look for in applications from prospective PhD students?**  I'm often asked what I'm looking for in applications from prospective PhD students, and I'm happy to provide additional transparency regarding this!  Things that I tend to prioritize most in applications are:
 - **Research Fit.** I'm especially looking for team members with interests and experience that align with my own research agenda, or that fill existing gaps in my research group.  My favorite research topics are creative language (for example, processing and understanding metaphor), multimodality (for example, grounded dialogue with robots), and healthcare applications (for example, recognizing cognitive decline from spoken language).
